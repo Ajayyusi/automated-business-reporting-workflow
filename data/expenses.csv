@@ -1,0 +1,198 @@
+expense_id,date,vendor,expense_category,description,amount_aed,vat_aed,payment_method,approval_status,source_channel
+EXP-5001,2025-01-06,Internal Payroll,Salaries and wages,Salaries and wages expense,28150,0.0,Cheque,Approved,Google Sheet Import
+EXP-5002,2025-01-30,Business Bay Properties,Office rent,Office rent expense,11475,573.75,Cash,Approved,Telegram Form
+EXP-5003,2025-01-28,Cloud Software Vendor,Software subscriptions,Software subscriptions expense,3050,152.5,Card,Approved,Accounting Export
+EXP-5004,2025-01-24,Etisalat,Telecom and internet,Telecom and internet expense,1050,52.5,Bank Transfer,Approved,Accounting Export
+EXP-5005,2025-01-01,Bank Service Fees,Bank charges,Bank charges expense,200,0.0,Cheque,Approved,Manual Entry
+EXP-5006,2025-01-24,Office Maintenance Co.,Maintenance,Maintenance expense,725,36.25,Bank Transfer,Approved,Manual Entry
+EXP-5007,2025-01-06,Local Accounting Office,Professional fees,Professional fees expense,3675,183.75,Bank Transfer,Approved,Accounting Export
+EXP-5008,2025-01-31,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,1925,96.25,Bank Transfer,Approved,Manual Entry
+EXP-5009,2025-01-22,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,1875,93.75,Bank Transfer,Approved,Manual Entry
+EXP-5010,2025-01-23,UAE Digital Ads,Marketing,Marketing expense,4875,243.75,Card,Approved,Telegram Form
+EXP-5011,2025-01-20,UAE Digital Ads,Marketing,Marketing expense,4225,211.25,Bank Transfer,Approved,Manual Entry
+EXP-5012,2025-01-14,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,650,32.5,Cash,Approved,Google Sheet Import
+EXP-5013,2025-01-21,Local Accounting Office,Professional fees,Professional fees expense,3750,187.5,Bank Transfer,Approved,Google Sheet Import
+EXP-5014,2025-01-21,Stationery Market LLC,Office supplies,Office supplies expense,875,43.75,Cash,Approved,Accounting Export
+EXP-5015,2025-01-17,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,1250,62.5,Bank Transfer,Approved,Telegram Form
+EXP-5016,2025-01-31,Bank Service Fees,Bank charges,Bank charges expense,275,0.0,Cash,Approved,Accounting Export
+EXP-5017,2025-01-29,UAE Digital Ads,Marketing,Marketing expense,4300,215.0,Cheque,Approved,Telegram Form
+EXP-5018,2025-01-27,UAE Digital Ads,Marketing,Marketing expense,3050,152.5,Bank Transfer,Approved,Accounting Export
+EXP-5019,2025-02-05,Internal Payroll,Salaries and wages,Salaries and wages expense,31900,0.0,Cash,Approved,Accounting Export
+EXP-5020,2025-02-17,Business Bay Properties,Office rent,Office rent expense,9650,482.5,Bank Transfer,Approved,Manual Entry
+EXP-5021,2025-02-28,Cloud Software Vendor,Software subscriptions,Software subscriptions expense,3100,155.0,Bank Transfer,Approved,Accounting Export
+EXP-5022,2025-02-05,Etisalat,Telecom and internet,Telecom and internet expense,1800,90.0,Bank Transfer,Approved,Google Sheet Import
+EXP-5023,2025-02-21,Local Accounting Office,Professional fees,Professional fees expense,3775,188.75,Bank Transfer,Approved,Telegram Form
+EXP-5024,2025-02-04,Local Accounting Office,Professional fees,Professional fees expense,1925,96.25,Bank Transfer,Approved,Telegram Form
+EXP-5025,2025-02-27,Stationery Market LLC,Office supplies,Office supplies expense,850,42.5,Card,Approved,Telegram Form
+EXP-5026,2025-02-19,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,2200,110.0,Bank Transfer,Approved,Accounting Export
+EXP-5027,2025-02-21,Stationery Market LLC,Office supplies,Office supplies expense,425,21.25,Bank Transfer,Approved,Google Sheet Import
+EXP-5028,2025-02-21,UAE Digital Ads,Marketing,Marketing expense,4775,238.75,Cash,Approved,Telegram Form
+EXP-5029,2025-02-18,Local Accounting Office,Professional fees,Professional fees expense,2325,116.25,Cheque,Approved,Accounting Export
+EXP-5030,2025-02-21,Office Maintenance Co.,Maintenance,Maintenance expense,1650,82.5,Cash,Approved,Manual Entry
+EXP-5031,2025-02-12,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,1875,93.75,Bank Transfer,Approved,Manual Entry
+EXP-5032,2025-03-31,Internal Payroll,Salaries and wages,Salaries and wages expense,29000,0.0,Bank Transfer,Approved,Accounting Export
+EXP-5033,2025-03-07,Business Bay Properties,Office rent,Office rent expense,10800,540.0,Bank Transfer,Pending Review,Google Sheet Import
+EXP-5034,2025-03-21,Cloud Software Vendor,Software subscriptions,Software subscriptions expense,2550,127.5,Bank Transfer,Approved,Telegram Form
+EXP-5035,2025-03-17,Etisalat,Telecom and internet,Telecom and internet expense,1725,86.25,Card,Approved,Telegram Form
+EXP-5036,2025-03-18,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,2025,101.25,Bank Transfer,Pending Review,Accounting Export
+EXP-5037,2025-03-24,Office Maintenance Co.,Maintenance,Maintenance expense,900,45.0,Cheque,Approved,Accounting Export
+EXP-5038,2025-03-21,Stationery Market LLC,Office supplies,Office supplies expense,1175,58.75,Cheque,Approved,Accounting Export
+EXP-5039,2025-03-19,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,2850,142.5,Cheque,Approved,Manual Entry
+EXP-5040,2025-03-03,Local Accounting Office,Professional fees,Professional fees expense,3500,175.0,Bank Transfer,Approved,Manual Entry
+EXP-5041,2025-03-13,Stationery Market LLC,Office supplies,Office supplies expense,1100,55.0,Bank Transfer,Approved,Accounting Export
+EXP-5042,2025-03-12,Bank Service Fees,Bank charges,Bank charges expense,100,0.0,Bank Transfer,Approved,Accounting Export
+EXP-5043,2025-03-28,UAE Digital Ads,Marketing,Marketing expense,2300,115.0,Bank Transfer,Approved,Accounting Export
+EXP-5044,2025-03-14,Stationery Market LLC,Office supplies,Office supplies expense,1300,65.0,Card,Approved,Telegram Form
+EXP-5045,2025-03-24,Local Accounting Office,Professional fees,Professional fees expense,975,48.75,Bank Transfer,Approved,Google Sheet Import
+EXP-5046,2025-03-18,Office Maintenance Co.,Maintenance,Maintenance expense,1125,56.25,Card,Approved,Accounting Export
+EXP-5047,2025-03-07,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,1725,86.25,Cash,Approved,Accounting Export
+EXP-5048,2025-03-13,Bank Service Fees,Bank charges,Bank charges expense,250,0.0,Bank Transfer,Approved,Manual Entry
+EXP-5049,2025-03-18,Stationery Market LLC,Office supplies,Office supplies expense,1350,67.5,Bank Transfer,Approved,Google Sheet Import
+EXP-5050,2025-04-24,Internal Payroll,Salaries and wages,Salaries and wages expense,26575,0.0,Bank Transfer,Approved,Accounting Export
+EXP-5051,2025-04-07,Business Bay Properties,Office rent,Office rent expense,9475,473.75,Card,Approved,Manual Entry
+EXP-5052,2025-04-07,Cloud Software Vendor,Software subscriptions,Software subscriptions expense,4150,207.5,Bank Transfer,Approved,Telegram Form
+EXP-5053,2025-04-07,Etisalat,Telecom and internet,Telecom and internet expense,1675,83.75,Bank Transfer,Approved,Manual Entry
+EXP-5054,2025-04-08,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,1475,73.75,Bank Transfer,Approved,Manual Entry
+EXP-5055,2025-04-03,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,950,47.5,Bank Transfer,Approved,Google Sheet Import
+EXP-5056,2025-04-23,UAE Digital Ads,Marketing,Marketing expense,1375,68.75,Bank Transfer,Approved,Accounting Export
+EXP-5057,2025-04-30,UAE Digital Ads,Marketing,Marketing expense,4800,240.0,Bank Transfer,Approved,Accounting Export
+EXP-5058,2025-04-22,Bank Service Fees,Bank charges,Bank charges expense,75,0.0,Cash,Approved,Telegram Form
+EXP-5059,2025-04-21,Local Accounting Office,Professional fees,Professional fees expense,3225,161.25,Bank Transfer,Approved,Google Sheet Import
+EXP-5060,2025-04-11,Stationery Market LLC,Office supplies,Office supplies expense,325,16.25,Bank Transfer,Approved,Google Sheet Import
+EXP-5061,2025-04-28,Stationery Market LLC,Office supplies,Office supplies expense,700,35.0,Bank Transfer,Approved,Google Sheet Import
+EXP-5062,2025-04-04,Stationery Market LLC,Office supplies,Office supplies expense,375,18.75,Cash,Approved,Accounting Export
+EXP-5063,2025-04-09,UAE Digital Ads,Marketing,Marketing expense,4000,200.0,Bank Transfer,Approved,Manual Entry
+EXP-5064,2025-04-17,Bank Service Fees,Bank charges,Bank charges expense,300,0.0,Bank Transfer,Approved,Manual Entry
+EXP-5065,2025-04-16,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,2350,117.5,Cheque,Approved,Manual Entry
+EXP-5066,2025-04-03,UAE Digital Ads,Marketing,Marketing expense,1300,65.0,Bank Transfer,Approved,Accounting Export
+EXP-5067,2025-04-24,Local Accounting Office,Professional fees,Professional fees expense,3575,178.75,Bank Transfer,Pending Review,Google Sheet Import
+EXP-5068,2025-05-16,Internal Payroll,Salaries and wages,Salaries and wages expense,33175,0.0,Bank Transfer,Approved,Manual Entry
+EXP-5069,2025-05-26,Business Bay Properties,Office rent,Office rent expense,9775,488.75,Cheque,Approved,Google Sheet Import
+EXP-5070,2025-05-01,Cloud Software Vendor,Software subscriptions,Software subscriptions expense,3350,167.5,Bank Transfer,Approved,Google Sheet Import
+EXP-5071,2025-05-13,Etisalat,Telecom and internet,Telecom and internet expense,875,43.75,Card,Approved,Manual Entry
+EXP-5072,2025-05-07,UAE Digital Ads,Marketing,Marketing expense,925,46.25,Bank Transfer,Approved,Telegram Form
+EXP-5073,2025-05-01,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,2275,113.75,Bank Transfer,Approved,Manual Entry
+EXP-5074,2025-05-08,Stationery Market LLC,Office supplies,Office supplies expense,775,38.75,Bank Transfer,Approved,Accounting Export
+EXP-5075,2025-05-05,Bank Service Fees,Bank charges,Bank charges expense,225,0.0,Cash,Approved,Accounting Export
+EXP-5076,2025-05-05,Bank Service Fees,Bank charges,Bank charges expense,75,0.0,Bank Transfer,Approved,Manual Entry
+EXP-5077,2025-05-13,Stationery Market LLC,Office supplies,Office supplies expense,750,37.5,Bank Transfer,Approved,Manual Entry
+EXP-5078,2025-05-30,Office Maintenance Co.,Maintenance,Maintenance expense,650,32.5,Card,Approved,Google Sheet Import
+EXP-5079,2025-05-19,Stationery Market LLC,Office supplies,Office supplies expense,300,15.0,Cheque,Approved,Manual Entry
+EXP-5080,2025-05-07,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,3050,152.5,Card,Approved,Telegram Form
+EXP-5081,2025-05-20,Local Accounting Office,Professional fees,Professional fees expense,2525,126.25,Bank Transfer,Approved,Google Sheet Import
+EXP-5082,2025-05-30,UAE Digital Ads,Marketing,Marketing expense,3050,152.5,Card,Approved,Accounting Export
+EXP-5083,2025-05-01,Stationery Market LLC,Office supplies,Office supplies expense,300,15.0,Bank Transfer,Approved,Manual Entry
+EXP-5084,2025-05-19,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,1750,87.5,Card,Approved,Telegram Form
+EXP-5085,2025-05-15,UAE Digital Ads,Marketing,Marketing expense,1000,50.0,Bank Transfer,Pending Review,Manual Entry
+EXP-5086,2025-06-17,Internal Payroll,Salaries and wages,Salaries and wages expense,33700,0.0,Bank Transfer,Pending Review,Google Sheet Import
+EXP-5087,2025-06-05,Business Bay Properties,Office rent,Office rent expense,8950,447.5,Bank Transfer,Approved,Google Sheet Import
+EXP-5088,2025-06-30,Cloud Software Vendor,Software subscriptions,Software subscriptions expense,3625,181.25,Bank Transfer,Pending Review,Google Sheet Import
+EXP-5089,2025-06-26,Etisalat,Telecom and internet,Telecom and internet expense,1300,65.0,Card,Approved,Accounting Export
+EXP-5090,2025-06-30,Office Maintenance Co.,Maintenance,Maintenance expense,1450,72.5,Cheque,Approved,Accounting Export
+EXP-5091,2025-06-20,UAE Digital Ads,Marketing,Marketing expense,2250,112.5,Bank Transfer,Approved,Manual Entry
+EXP-5092,2025-06-03,Bank Service Fees,Bank charges,Bank charges expense,150,0.0,Bank Transfer,Approved,Manual Entry
+EXP-5093,2025-06-17,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,750,37.5,Cash,Approved,Accounting Export
+EXP-5094,2025-06-27,Local Accounting Office,Professional fees,Professional fees expense,3725,186.25,Bank Transfer,Approved,Google Sheet Import
+EXP-5095,2025-06-03,Local Accounting Office,Professional fees,Professional fees expense,4050,202.5,Bank Transfer,Approved,Google Sheet Import
+EXP-5096,2025-06-23,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,1475,73.75,Bank Transfer,Pending Review,Manual Entry
+EXP-5097,2025-06-16,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,2725,136.25,Cheque,Approved,Google Sheet Import
+EXP-5098,2025-06-20,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,750,37.5,Cheque,Approved,Google Sheet Import
+EXP-5099,2025-06-13,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,1575,78.75,Bank Transfer,Approved,Google Sheet Import
+EXP-5100,2025-06-30,UAE Digital Ads,Marketing,Marketing expense,1125,56.25,Card,Approved,Telegram Form
+EXP-5101,2025-06-13,Local Accounting Office,Professional fees,Professional fees expense,3125,156.25,Bank Transfer,Approved,Accounting Export
+EXP-5102,2025-06-06,UAE Digital Ads,Marketing,Marketing expense,3500,175.0,Bank Transfer,Approved,Telegram Form
+EXP-5103,2025-06-30,Local Accounting Office,Professional fees,Professional fees expense,2025,101.25,Card,Approved,Google Sheet Import
+EXP-5104,2025-07-18,Internal Payroll,Salaries and wages,Salaries and wages expense,31500,0.0,Bank Transfer,Approved,Manual Entry
+EXP-5105,2025-07-15,Business Bay Properties,Office rent,Office rent expense,11350,567.5,Cash,Approved,Manual Entry
+EXP-5106,2025-07-03,Cloud Software Vendor,Software subscriptions,Software subscriptions expense,2125,106.25,Bank Transfer,Approved,Google Sheet Import
+EXP-5107,2025-07-23,Etisalat,Telecom and internet,Telecom and internet expense,1375,68.75,Bank Transfer,Approved,Accounting Export
+EXP-5108,2025-07-17,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,975,48.75,Bank Transfer,Approved,Google Sheet Import
+EXP-5109,2025-07-08,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,2250,112.5,Card,Approved,Manual Entry
+EXP-5110,2025-07-21,Bank Service Fees,Bank charges,Bank charges expense,275,0.0,Bank Transfer,Approved,Accounting Export
+EXP-5111,2025-07-10,Bank Service Fees,Bank charges,Bank charges expense,125,0.0,Bank Transfer,Approved,Manual Entry
+EXP-5112,2025-07-16,Stationery Market LLC,Office supplies,Office supplies expense,1200,60.0,Card,Approved,Manual Entry
+EXP-5113,2025-07-17,Bank Service Fees,Bank charges,Bank charges expense,300,0.0,Bank Transfer,Approved,Telegram Form
+EXP-5114,2025-07-28,Stationery Market LLC,Office supplies,Office supplies expense,475,23.75,Bank Transfer,Approved,Google Sheet Import
+EXP-5115,2025-07-24,Stationery Market LLC,Office supplies,Office supplies expense,1250,62.5,Cash,Approved,Google Sheet Import
+EXP-5116,2025-07-03,Local Accounting Office,Professional fees,Professional fees expense,1275,63.75,Card,Approved,Accounting Export
+EXP-5117,2025-08-12,Internal Payroll,Salaries and wages,Salaries and wages expense,26700,0.0,Bank Transfer,Pending Review,Accounting Export
+EXP-5118,2025-08-07,Business Bay Properties,Office rent,Office rent expense,10450,522.5,Bank Transfer,Approved,Accounting Export
+EXP-5119,2025-08-07,Cloud Software Vendor,Software subscriptions,Software subscriptions expense,3475,173.75,Card,Approved,Google Sheet Import
+EXP-5120,2025-08-01,Etisalat,Telecom and internet,Telecom and internet expense,1700,85.0,Bank Transfer,Approved,Google Sheet Import
+EXP-5121,2025-08-25,Bank Service Fees,Bank charges,Bank charges expense,275,0.0,Bank Transfer,Approved,Manual Entry
+EXP-5122,2025-08-12,UAE Digital Ads,Marketing,Marketing expense,1425,71.25,Bank Transfer,Approved,Manual Entry
+EXP-5123,2025-08-22,Office Maintenance Co.,Maintenance,Maintenance expense,650,32.5,Bank Transfer,Approved,Google Sheet Import
+EXP-5124,2025-08-07,Bank Service Fees,Bank charges,Bank charges expense,125,0.0,Bank Transfer,Approved,Manual Entry
+EXP-5125,2025-08-08,Office Maintenance Co.,Maintenance,Maintenance expense,1450,72.5,Card,Approved,Accounting Export
+EXP-5126,2025-08-25,Office Maintenance Co.,Maintenance,Maintenance expense,575,28.75,Bank Transfer,Approved,Google Sheet Import
+EXP-5127,2025-08-22,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,700,35.0,Bank Transfer,Approved,Manual Entry
+EXP-5128,2025-08-18,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,2550,127.5,Card,Approved,Accounting Export
+EXP-5129,2025-08-27,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,2250,112.5,Card,Approved,Telegram Form
+EXP-5130,2025-08-29,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,2050,102.5,Bank Transfer,Approved,Manual Entry
+EXP-5131,2025-09-29,Internal Payroll,Salaries and wages,Salaries and wages expense,26300,0.0,Bank Transfer,Approved,Accounting Export
+EXP-5132,2025-09-15,Business Bay Properties,Office rent,Office rent expense,11100,555.0,Bank Transfer,Approved,Manual Entry
+EXP-5133,2025-09-19,Cloud Software Vendor,Software subscriptions,Software subscriptions expense,2750,137.5,Cash,Approved,Accounting Export
+EXP-5134,2025-09-22,Etisalat,Telecom and internet,Telecom and internet expense,1325,66.25,Bank Transfer,Approved,Manual Entry
+EXP-5135,2025-09-18,Local Accounting Office,Professional fees,Professional fees expense,1125,56.25,Bank Transfer,Approved,Accounting Export
+EXP-5136,2025-09-15,UAE Digital Ads,Marketing,Marketing expense,3250,162.5,Bank Transfer,Approved,Manual Entry
+EXP-5137,2025-09-18,UAE Digital Ads,Marketing,Marketing expense,2825,141.25,Bank Transfer,Approved,Manual Entry
+EXP-5138,2025-09-16,Stationery Market LLC,Office supplies,Office supplies expense,1075,53.75,Bank Transfer,Approved,Google Sheet Import
+EXP-5139,2025-09-02,Office Maintenance Co.,Maintenance,Maintenance expense,1825,91.25,Bank Transfer,Approved,Manual Entry
+EXP-5140,2025-09-30,UAE Digital Ads,Marketing,Marketing expense,4350,217.5,Bank Transfer,Approved,Accounting Export
+EXP-5141,2025-09-19,UAE Digital Ads,Marketing,Marketing expense,3825,191.25,Bank Transfer,Approved,Accounting Export
+EXP-5142,2025-09-17,Bank Service Fees,Bank charges,Bank charges expense,175,0.0,Cash,Approved,Telegram Form
+EXP-5143,2025-09-16,Office Maintenance Co.,Maintenance,Maintenance expense,1225,61.25,Bank Transfer,Approved,Google Sheet Import
+EXP-5144,2025-09-17,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,2000,100.0,Bank Transfer,Approved,Accounting Export
+EXP-5145,2025-09-08,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,725,36.25,Bank Transfer,Approved,Google Sheet Import
+EXP-5146,2025-09-11,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,1325,66.25,Card,Approved,Google Sheet Import
+EXP-5147,2025-09-22,Bank Service Fees,Bank charges,Bank charges expense,275,0.0,Bank Transfer,Approved,Telegram Form
+EXP-5148,2025-09-19,Local Accounting Office,Professional fees,Professional fees expense,1425,71.25,Cheque,Approved,Accounting Export
+EXP-5149,2025-10-07,Internal Payroll,Salaries and wages,Salaries and wages expense,34375,0.0,Bank Transfer,Approved,Manual Entry
+EXP-5150,2025-10-21,Business Bay Properties,Office rent,Office rent expense,10225,511.25,Card,Approved,Google Sheet Import
+EXP-5151,2025-10-14,Cloud Software Vendor,Software subscriptions,Software subscriptions expense,2000,100.0,Bank Transfer,Approved,Manual Entry
+EXP-5152,2025-10-20,Etisalat,Telecom and internet,Telecom and internet expense,1250,62.5,Cash,Approved,Accounting Export
+EXP-5153,2025-10-21,Stationery Market LLC,Office supplies,Office supplies expense,1000,50.0,Bank Transfer,Approved,Telegram Form
+EXP-5154,2025-10-24,Stationery Market LLC,Office supplies,Office supplies expense,1200,60.0,Bank Transfer,Approved,Accounting Export
+EXP-5155,2025-10-02,Local Accounting Office,Professional fees,Professional fees expense,2300,115.0,Cash,Approved,Manual Entry
+EXP-5156,2025-10-31,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,1075,53.75,Bank Transfer,Pending Review,Google Sheet Import
+EXP-5157,2025-10-03,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,1375,68.75,Bank Transfer,Approved,Google Sheet Import
+EXP-5158,2025-10-14,UAE Digital Ads,Marketing,Marketing expense,1450,72.5,Bank Transfer,Approved,Google Sheet Import
+EXP-5159,2025-10-27,Stationery Market LLC,Office supplies,Office supplies expense,925,46.25,Bank Transfer,Approved,Accounting Export
+EXP-5160,2025-10-27,Stationery Market LLC,Office supplies,Office supplies expense,950,47.5,Bank Transfer,Approved,Telegram Form
+EXP-5161,2025-10-27,UAE Digital Ads,Marketing,Marketing expense,4975,248.75,Bank Transfer,Approved,Google Sheet Import
+EXP-5162,2025-10-01,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,2225,111.25,Bank Transfer,Approved,Manual Entry
+EXP-5163,2025-10-22,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,3100,155.0,Bank Transfer,Approved,Manual Entry
+EXP-5164,2025-11-26,Internal Payroll,Salaries and wages,Salaries and wages expense,29150,0.0,Bank Transfer,Approved,Telegram Form
+EXP-5165,2025-11-07,Business Bay Properties,Office rent,Office rent expense,9850,492.5,Bank Transfer,Approved,Manual Entry
+EXP-5166,2025-11-12,Cloud Software Vendor,Software subscriptions,Software subscriptions expense,3275,163.75,Cheque,Pending Review,Accounting Export
+EXP-5167,2025-11-17,Etisalat,Telecom and internet,Telecom and internet expense,1725,86.25,Bank Transfer,Approved,Accounting Export
+EXP-5168,2025-11-14,UAE Digital Ads,Marketing,Marketing expense,2900,145.0,Bank Transfer,Approved,Manual Entry
+EXP-5169,2025-11-12,UAE Digital Ads,Marketing,Marketing expense,2875,143.75,Bank Transfer,Approved,Telegram Form
+EXP-5170,2025-11-24,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,1900,95.0,Bank Transfer,Approved,Telegram Form
+EXP-5171,2025-11-13,Local Accounting Office,Professional fees,Professional fees expense,1300,65.0,Card,Approved,Manual Entry
+EXP-5172,2025-11-27,UAE Digital Ads,Marketing,Marketing expense,2625,131.25,Bank Transfer,Approved,Manual Entry
+EXP-5173,2025-11-21,Stationery Market LLC,Office supplies,Office supplies expense,700,35.0,Card,Approved,Accounting Export
+EXP-5174,2025-11-06,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,2375,118.75,Bank Transfer,Approved,Manual Entry
+EXP-5175,2025-11-26,Stationery Market LLC,Office supplies,Office supplies expense,1375,68.75,Cash,Approved,Telegram Form
+EXP-5176,2025-11-25,Stationery Market LLC,Office supplies,Office supplies expense,825,41.25,Bank Transfer,Approved,Google Sheet Import
+EXP-5177,2025-11-25,Bank Service Fees,Bank charges,Bank charges expense,300,0.0,Bank Transfer,Approved,Google Sheet Import
+EXP-5178,2025-11-28,Office Maintenance Co.,Maintenance,Maintenance expense,1025,51.25,Bank Transfer,Approved,Google Sheet Import
+EXP-5179,2025-11-27,UAE Digital Ads,Marketing,Marketing expense,4525,226.25,Bank Transfer,Approved,Google Sheet Import
+EXP-5180,2025-12-10,Internal Payroll,Salaries and wages,Salaries and wages expense,30925,0.0,Card,Approved,Telegram Form
+EXP-5181,2025-12-26,Business Bay Properties,Office rent,Office rent expense,10375,518.75,Card,Approved,Accounting Export
+EXP-5182,2025-12-25,Cloud Software Vendor,Software subscriptions,Software subscriptions expense,2375,118.75,Cash,Approved,Telegram Form
+EXP-5183,2025-12-05,Etisalat,Telecom and internet,Telecom and internet expense,1150,57.5,Bank Transfer,Approved,Google Sheet Import
+EXP-5184,2025-12-22,Local Accounting Office,Professional fees,Professional fees expense,2900,145.0,Cash,Approved,Telegram Form
+EXP-5185,2025-12-09,Local Accounting Office,Professional fees,Professional fees expense,1325,66.25,Bank Transfer,Pending Review,Manual Entry
+EXP-5186,2025-12-08,UAE Digital Ads,Marketing,Marketing expense,2525,126.25,Bank Transfer,Approved,Google Sheet Import
+EXP-5187,2025-12-30,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,2375,118.75,Card,Approved,Google Sheet Import
+EXP-5188,2025-12-10,UAE Digital Ads,Marketing,Marketing expense,1725,86.25,Bank Transfer,Approved,Accounting Export
+EXP-5189,2025-12-12,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,3150,157.5,Card,Approved,Manual Entry
+EXP-5190,2025-12-24,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,1875,93.75,Cash,Approved,Manual Entry
+EXP-5191,2025-12-30,Office Maintenance Co.,Maintenance,Maintenance expense,675,33.75,Bank Transfer,Approved,Manual Entry
+EXP-5192,2025-12-05,Bank Service Fees,Bank charges,Bank charges expense,175,0.0,Bank Transfer,Approved,Google Sheet Import
+EXP-5193,2025-12-19,Stationery Market LLC,Office supplies,Office supplies expense,650,32.5,Card,Approved,Manual Entry
+EXP-5194,2025-12-11,Stationery Market LLC,Office supplies,Office supplies expense,1200,60.0,Cash,Approved,Telegram Form
+EXP-5195,2025-12-25,Fleet Fuel Card,Transport and fuel,Transport and fuel expense,2225,111.25,Bank Transfer,Approved,Accounting Export
+EXP-5196,2025-12-10,Stationery Market LLC,Office supplies,Office supplies expense,500,25.0,Bank Transfer,Approved,Google Sheet Import
+EXP-5197,2025-12-05,Office Maintenance Co.,Maintenance,Maintenance expense,625,31.25,Bank Transfer,Approved,Accounting Export

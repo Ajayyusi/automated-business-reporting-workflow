@@ -1,0 +1,17 @@
+transaction_type,category,total_aed,transaction_count
+Expense,Salaries and wages,361450,12
+Expense,Office rent,123475,12
+Expense,Marketing,86125,29
+Expense,Transport and fuel,72000,39
+Expense,Professional fees,53825,21
+Expense,Software subscriptions,35825,12
+Expense,Office supplies,23925,28
+Expense,Telecom and internet,16950,12
+Expense,Maintenance,14550,14
+Expense,Bank charges,3675,18
+Income,Monthly service retainer,828400,55
+Income,Automation setup fee,173700,14
+Income,Dashboard customization,166450,22
+Income,Data cleaning support,98350,16
+Income,Training workshop,30100,7
+Income,Ad hoc reporting,14950,5

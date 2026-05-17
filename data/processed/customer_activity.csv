@@ -1,0 +1,13 @@
+customer_id,customer_name,sector,emirate,relationship_type,signup_date,account_manager,status,revenue_aed,invoice_count,last_invoice_date,collected_revenue_aed,collection_rate_pct
+CUST-001,Desert Pearl Clinics,Healthcare,Dubai,Retainer,2023-04-25,Aisha,Active,128200,10,2025-12-01,119550,93.3
+CUST-002,Al Noor Business Center,Business Services,Abu Dhabi,Project,2023-09-08,Omar,Active,87650,11,2025-12-03,83000,94.7
+CUST-003,Palm View Real Estate,Real Estate,Dubai,Retainer,2023-04-15,Aisha,Active,130550,10,2025-11-04,100500,77.0
+CUST-004,Gulf Star Trading,Trading,Sharjah,Project,2023-02-02,Aisha,Active,89650,10,2025-11-27,85950,95.9
+CUST-005,Marina Fit Studio,Fitness,Dubai,Retainer,2023-08-27,Aisha,Active,129900,10,2025-12-19,121800,93.8
+CUST-006,Blue Dhow Logistics,Logistics,Jebel Ali,Retainer,2024-03-05,Omar,Active,126050,11,2025-12-19,79400,63.0
+CUST-007,Ajman Modern School,Education,Ajman,Project,2023-10-12,Aisha,Active,85550,9,2025-12-22,55650,65.0
+CUST-008,Falcon Legal Advisors,Professional Services,Dubai,Retainer,2023-06-13,Khalid,Active,118700,10,2025-12-30,108500,91.4
+CUST-009,Oasis Cafe Group,Hospitality,Dubai,Project,2023-06-09,Omar,At Risk,112250,9,2025-11-25,108300,96.5
+CUST-010,Capital Dental Center,Healthcare,Abu Dhabi,Retainer,2023-12-11,Aisha,Active,125600,10,2025-12-19,96450,76.8
+CUST-011,Ras Al Khaimah Warehousing,Logistics,RAK,Project,2023-04-10,Nadia,Active,113150,12,2025-12-09,113150,100.0
+CUST-012,Mirdif Learning Hub,Education,Dubai,Retainer,2023-09-28,Aisha,Active,64700,7,2025-11-20,42700,66.0

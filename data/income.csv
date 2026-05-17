@@ -1,0 +1,120 @@
+income_id,date,customer_id,customer_name,income_category,description,amount_aed,vat_aed,total_aed,payment_method,collection_status,source_channel
+INC-1001,2025-01-24,CUST-002,Al Noor Business Center,Ad hoc reporting,Ad hoc reporting - Al Noor Business Center,2650,132.5,2782.5,Bank Transfer,Collected,Accounting Export
+INC-1002,2025-01-03,CUST-012,Mirdif Learning Hub,Monthly service retainer,Monthly service retainer - Mirdif Learning Hub,11100,555.0,11655.0,Bank Transfer,Collected,Manual Entry
+INC-1003,2025-01-06,CUST-010,Capital Dental Center,Monthly service retainer,Monthly service retainer - Capital Dental Center,11650,582.5,12232.5,Bank Transfer,Collected,Accounting Export
+INC-1004,2025-01-30,CUST-006,Blue Dhow Logistics,Monthly service retainer,Monthly service retainer - Blue Dhow Logistics,13300,665.0,13965.0,Bank Transfer,Pending,Google Sheet Import
+INC-1005,2025-01-10,CUST-008,Falcon Legal Advisors,Automation setup fee,Automation setup fee - Falcon Legal Advisors,8150,407.5,8557.5,Bank Transfer,Collected,Accounting Export
+INC-1006,2025-01-30,CUST-011,Ras Al Khaimah Warehousing,Dashboard customization,Dashboard customization - Ras Al Khaimah Warehousing,8250,412.5,8662.5,Bank Transfer,Collected,Telegram Form
+INC-1007,2025-01-17,CUST-007,Ajman Modern School,Data cleaning support,Data cleaning support - Ajman Modern School,7750,387.5,8137.5,Bank Transfer,Collected,Accounting Export
+INC-1008,2025-01-29,CUST-003,Palm View Real Estate,Data cleaning support,Data cleaning support - Palm View Real Estate,4550,227.5,4777.5,Bank Transfer,Pending,Google Sheet Import
+INC-1009,2025-01-24,CUST-004,Gulf Star Trading,Monthly service retainer,Monthly service retainer - Gulf Star Trading,10400,520.0,10920.0,Bank Transfer,Collected,Manual Entry
+INC-1010,2025-01-07,CUST-001,Desert Pearl Clinics,Automation setup fee,Automation setup fee - Desert Pearl Clinics,10500,525.0,11025.0,Bank Transfer,Collected,Telegram Form
+INC-1011,2025-01-30,CUST-009,Oasis Cafe Group,Monthly service retainer,Monthly service retainer - Oasis Cafe Group,16950,847.5,17797.5,Bank Transfer,Collected,Manual Entry
+INC-1012,2025-02-03,CUST-012,Mirdif Learning Hub,Monthly service retainer,Monthly service retainer - Mirdif Learning Hub,15950,797.5,16747.5,Bank Transfer,Collected,Accounting Export
+INC-1013,2025-02-17,CUST-009,Oasis Cafe Group,Dashboard customization,Dashboard customization - Oasis Cafe Group,10050,502.5,10552.5,Bank Transfer,Collected,Manual Entry
+INC-1014,2025-02-13,CUST-006,Blue Dhow Logistics,Ad hoc reporting,Ad hoc reporting - Blue Dhow Logistics,4550,227.5,4777.5,Cheque,Collected,Google Sheet Import
+INC-1015,2025-02-25,CUST-005,Marina Fit Studio,Monthly service retainer,Monthly service retainer - Marina Fit Studio,16950,847.5,17797.5,Bank Transfer,Collected,Google Sheet Import
+INC-1016,2025-02-25,CUST-002,Al Noor Business Center,Automation setup fee,Automation setup fee - Al Noor Business Center,15750,787.5,16537.5,Cheque,Collected,Google Sheet Import
+INC-1017,2025-02-14,CUST-011,Ras Al Khaimah Warehousing,Monthly service retainer,Monthly service retainer - Ras Al Khaimah Warehousing,13400,670.0,14070.0,Bank Transfer,Collected,Google Sheet Import
+INC-1018,2025-02-05,CUST-001,Desert Pearl Clinics,Monthly service retainer,Monthly service retainer - Desert Pearl Clinics,18400,920.0,19320.0,Cheque,Collected,Telegram Form
+INC-1019,2025-02-10,CUST-010,Capital Dental Center,Dashboard customization,Dashboard customization - Capital Dental Center,11550,577.5,12127.5,Bank Transfer,Pending,Manual Entry
+INC-1020,2025-02-11,CUST-003,Palm View Real Estate,Monthly service retainer,Monthly service retainer - Palm View Real Estate,15800,790.0,16590.0,Card,Collected,Google Sheet Import
+INC-1021,2025-02-21,CUST-008,Falcon Legal Advisors,Monthly service retainer,Monthly service retainer - Falcon Legal Advisors,20650,1032.5,21682.5,Bank Transfer,Collected,Manual Entry
+INC-1022,2025-03-05,CUST-011,Ras Al Khaimah Warehousing,Monthly service retainer,Monthly service retainer - Ras Al Khaimah Warehousing,11450,572.5,12022.5,Card,Collected,Telegram Form
+INC-1023,2025-03-25,CUST-006,Blue Dhow Logistics,Monthly service retainer,Monthly service retainer - Blue Dhow Logistics,12950,647.5,13597.5,Bank Transfer,Collected,Telegram Form
+INC-1024,2025-03-27,CUST-010,Capital Dental Center,Monthly service retainer,Monthly service retainer - Capital Dental Center,21150,1057.5,22207.5,Bank Transfer,Collected,Google Sheet Import
+INC-1025,2025-03-20,CUST-001,Desert Pearl Clinics,Monthly service retainer,Monthly service retainer - Desert Pearl Clinics,9750,487.5,10237.5,Bank Transfer,Collected,Accounting Export
+INC-1026,2025-03-31,CUST-005,Marina Fit Studio,Monthly service retainer,Monthly service retainer - Marina Fit Studio,17300,865.0,18165.0,Bank Transfer,Collected,Manual Entry
+INC-1027,2025-03-11,CUST-004,Gulf Star Trading,Data cleaning support,Data cleaning support - Gulf Star Trading,4100,205.0,4305.0,Bank Transfer,Collected,Telegram Form
+INC-1028,2025-03-05,CUST-007,Ajman Modern School,Automation setup fee,Automation setup fee - Ajman Modern School,16950,847.5,17797.5,Bank Transfer,Collected,Google Sheet Import
+INC-1029,2025-03-03,CUST-003,Palm View Real Estate,Monthly service retainer,Monthly service retainer - Palm View Real Estate,22000,1100.0,23100.0,Cheque,Pending,Accounting Export
+INC-1030,2025-03-11,CUST-012,Mirdif Learning Hub,Monthly service retainer,Monthly service retainer - Mirdif Learning Hub,15050,752.5,15802.5,Cash,Pending,Telegram Form
+INC-1031,2025-03-21,CUST-002,Al Noor Business Center,Monthly service retainer,Monthly service retainer - Al Noor Business Center,13750,687.5,14437.5,Bank Transfer,Collected,Google Sheet Import
+INC-1032,2025-03-24,CUST-009,Oasis Cafe Group,Data cleaning support,Data cleaning support - Oasis Cafe Group,6800,340.0,7140.0,Bank Transfer,Collected,Accounting Export
+INC-1033,2025-04-02,CUST-002,Al Noor Business Center,Monthly service retainer,Monthly service retainer - Al Noor Business Center,12750,637.5,13387.5,Bank Transfer,Collected,Accounting Export
+INC-1034,2025-04-03,CUST-001,Desert Pearl Clinics,Monthly service retainer,Monthly service retainer - Desert Pearl Clinics,21450,1072.5,22522.5,Cash,Collected,Telegram Form
+INC-1035,2025-04-25,CUST-005,Marina Fit Studio,Data cleaning support,Data cleaning support - Marina Fit Studio,5100,255.0,5355.0,Bank Transfer,Collected,Google Sheet Import
+INC-1036,2025-04-23,CUST-003,Palm View Real Estate,Monthly service retainer,Monthly service retainer - Palm View Real Estate,16400,820.0,17220.0,Bank Transfer,Collected,Google Sheet Import
+INC-1037,2025-04-07,CUST-006,Blue Dhow Logistics,Monthly service retainer,Monthly service retainer - Blue Dhow Logistics,12100,605.0,12705.0,Bank Transfer,Collected,Manual Entry
+INC-1038,2025-04-21,CUST-004,Gulf Star Trading,Dashboard customization,Dashboard customization - Gulf Star Trading,4100,205.0,4305.0,Bank Transfer,Collected,Telegram Form
+INC-1039,2025-04-07,CUST-007,Ajman Modern School,Automation setup fee,Automation setup fee - Ajman Modern School,12300,615.0,12915.0,Cheque,Pending,Accounting Export
+INC-1040,2025-04-24,CUST-010,Capital Dental Center,Monthly service retainer,Monthly service retainer - Capital Dental Center,10650,532.5,11182.5,Card,Collected,Accounting Export
+INC-1041,2025-04-24,CUST-012,Mirdif Learning Hub,Dashboard customization,Dashboard customization - Mirdif Learning Hub,3550,177.5,3727.5,Bank Transfer,Collected,Accounting Export
+INC-1042,2025-04-04,CUST-011,Ras Al Khaimah Warehousing,Monthly service retainer,Monthly service retainer - Ras Al Khaimah Warehousing,10050,502.5,10552.5,Card,Collected,Manual Entry
+INC-1043,2025-04-30,CUST-008,Falcon Legal Advisors,Monthly service retainer,Monthly service retainer - Falcon Legal Advisors,13150,657.5,13807.5,Bank Transfer,Collected,Google Sheet Import
+INC-1044,2025-05-02,CUST-006,Blue Dhow Logistics,Dashboard customization,Dashboard customization - Blue Dhow Logistics,10550,527.5,11077.5,Bank Transfer,Collected,Google Sheet Import
+INC-1045,2025-05-26,CUST-009,Oasis Cafe Group,Monthly service retainer,Monthly service retainer - Oasis Cafe Group,18500,925.0,19425.0,Card,Collected,Telegram Form
+INC-1046,2025-05-07,CUST-011,Ras Al Khaimah Warehousing,Training workshop,Training workshop - Ras Al Khaimah Warehousing,5050,252.5,5302.5,Bank Transfer,Collected,Google Sheet Import
+INC-1047,2025-05-14,CUST-008,Falcon Legal Advisors,Monthly service retainer,Monthly service retainer - Falcon Legal Advisors,10200,510.0,10710.0,Bank Transfer,Pending,Accounting Export
+INC-1048,2025-05-30,CUST-003,Palm View Real Estate,Monthly service retainer,Monthly service retainer - Palm View Real Estate,13350,667.5,14017.5,Bank Transfer,Collected,Google Sheet Import
+INC-1049,2025-05-28,CUST-004,Gulf Star Trading,Training workshop,Training workshop - Gulf Star Trading,3700,185.0,3885.0,Card,Pending,Telegram Form
+INC-1050,2025-05-08,CUST-005,Marina Fit Studio,Monthly service retainer,Monthly service retainer - Marina Fit Studio,19300,965.0,20265.0,Cash,Collected,Google Sheet Import
+INC-1051,2025-06-11,CUST-010,Capital Dental Center,Data cleaning support,Data cleaning support - Capital Dental Center,8100,405.0,8505.0,Bank Transfer,Collected,Telegram Form
+INC-1052,2025-06-11,CUST-005,Marina Fit Studio,Data cleaning support,Data cleaning support - Marina Fit Studio,8100,405.0,8505.0,Bank Transfer,Pending,Manual Entry
+INC-1053,2025-06-11,CUST-008,Falcon Legal Advisors,Data cleaning support,Data cleaning support - Falcon Legal Advisors,8150,407.5,8557.5,Bank Transfer,Collected,Manual Entry
+INC-1054,2025-06-12,CUST-004,Gulf Star Trading,Data cleaning support,Data cleaning support - Gulf Star Trading,8800,440.0,9240.0,Bank Transfer,Collected,Google Sheet Import
+INC-1055,2025-06-02,CUST-002,Al Noor Business Center,Data cleaning support,Data cleaning support - Al Noor Business Center,4650,232.5,4882.5,Bank Transfer,Pending,Telegram Form
+INC-1056,2025-06-05,CUST-007,Ajman Modern School,Ad hoc reporting,Ad hoc reporting - Ajman Modern School,2200,110.0,2310.0,Bank Transfer,Collected,Google Sheet Import
+INC-1057,2025-06-05,CUST-011,Ras Al Khaimah Warehousing,Monthly service retainer,Monthly service retainer - Ras Al Khaimah Warehousing,21800,1090.0,22890.0,Bank Transfer,Collected,Manual Entry
+INC-1058,2025-06-25,CUST-003,Palm View Real Estate,Dashboard customization,Dashboard customization - Palm View Real Estate,3500,175.0,3675.0,Bank Transfer,Pending,Google Sheet Import
+INC-1059,2025-06-16,CUST-001,Desert Pearl Clinics,Monthly service retainer,Monthly service retainer - Desert Pearl Clinics,14300,715.0,15015.0,Bank Transfer,Collected,Telegram Form
+INC-1060,2025-07-17,CUST-003,Palm View Real Estate,Monthly service retainer,Monthly service retainer - Palm View Real Estate,14000,700.0,14700.0,Bank Transfer,Collected,Telegram Form
+INC-1061,2025-07-08,CUST-002,Al Noor Business Center,Dashboard customization,Dashboard customization - Al Noor Business Center,6700,335.0,7035.0,Bank Transfer,Collected,Google Sheet Import
+INC-1062,2025-07-18,CUST-004,Gulf Star Trading,Monthly service retainer,Monthly service retainer - Gulf Star Trading,12350,617.5,12967.5,Card,Collected,Manual Entry
+INC-1063,2025-07-23,CUST-010,Capital Dental Center,Monthly service retainer,Monthly service retainer - Capital Dental Center,17600,880.0,18480.0,Bank Transfer,Pending,Google Sheet Import
+INC-1064,2025-07-23,CUST-008,Falcon Legal Advisors,Monthly service retainer,Monthly service retainer - Falcon Legal Advisors,9650,482.5,10132.5,Bank Transfer,Collected,Telegram Form
+INC-1065,2025-07-14,CUST-011,Ras Al Khaimah Warehousing,Ad hoc reporting,Ad hoc reporting - Ras Al Khaimah Warehousing,2100,105.0,2205.0,Bank Transfer,Collected,Telegram Form
+INC-1066,2025-07-03,CUST-006,Blue Dhow Logistics,Monthly service retainer,Monthly service retainer - Blue Dhow Logistics,14900,745.0,15645.0,Bank Transfer,Pending,Google Sheet Import
+INC-1067,2025-07-17,CUST-001,Desert Pearl Clinics,Dashboard customization,Dashboard customization - Desert Pearl Clinics,6750,337.5,7087.5,Bank Transfer,Collected,Telegram Form
+INC-1068,2025-07-04,CUST-009,Oasis Cafe Group,Dashboard customization,Dashboard customization - Oasis Cafe Group,10050,502.5,10552.5,Card,Collected,Google Sheet Import
+INC-1069,2025-08-06,CUST-005,Marina Fit Studio,Monthly service retainer,Monthly service retainer - Marina Fit Studio,11850,592.5,12442.5,Bank Transfer,Collected,Google Sheet Import
+INC-1070,2025-08-21,CUST-002,Al Noor Business Center,Ad hoc reporting,Ad hoc reporting - Al Noor Business Center,3450,172.5,3622.5,Bank Transfer,Collected,Google Sheet Import
+INC-1071,2025-08-08,CUST-007,Ajman Modern School,Data cleaning support,Data cleaning support - Ajman Modern School,6050,302.5,6352.5,Card,Collected,Manual Entry
+INC-1072,2025-08-25,CUST-001,Desert Pearl Clinics,Monthly service retainer,Monthly service retainer - Desert Pearl Clinics,17100,855.0,17955.0,Bank Transfer,Collected,Manual Entry
+INC-1073,2025-08-15,CUST-011,Ras Al Khaimah Warehousing,Dashboard customization,Dashboard customization - Ras Al Khaimah Warehousing,5500,275.0,5775.0,Bank Transfer,Collected,Telegram Form
+INC-1074,2025-08-11,CUST-009,Oasis Cafe Group,Monthly service retainer,Monthly service retainer - Oasis Cafe Group,17850,892.5,18742.5,Bank Transfer,Collected,Google Sheet Import
+INC-1075,2025-08-20,CUST-006,Blue Dhow Logistics,Monthly service retainer,Monthly service retainer - Blue Dhow Logistics,11300,565.0,11865.0,Bank Transfer,Collected,Accounting Export
+INC-1076,2025-08-27,CUST-003,Palm View Real Estate,Monthly service retainer,Monthly service retainer - Palm View Real Estate,20400,1020.0,21420.0,Bank Transfer,Collected,Manual Entry
+INC-1077,2025-08-20,CUST-004,Gulf Star Trading,Dashboard customization,Dashboard customization - Gulf Star Trading,10750,537.5,11287.5,Bank Transfer,Collected,Google Sheet Import
+INC-1078,2025-08-13,CUST-008,Falcon Legal Advisors,Training workshop,Training workshop - Falcon Legal Advisors,4100,205.0,4305.0,Bank Transfer,Collected,Manual Entry
+INC-1079,2025-08-08,CUST-012,Mirdif Learning Hub,Dashboard customization,Dashboard customization - Mirdif Learning Hub,6950,347.5,7297.5,Cash,Pending,Accounting Export
+INC-1080,2025-09-30,CUST-011,Ras Al Khaimah Warehousing,Training workshop,Training workshop - Ras Al Khaimah Warehousing,4600,230.0,4830.0,Bank Transfer,Collected,Telegram Form
+INC-1081,2025-09-17,CUST-006,Blue Dhow Logistics,Automation setup fee,Automation setup fee - Blue Dhow Logistics,6650,332.5,6982.5,Bank Transfer,Collected,Manual Entry
+INC-1082,2025-09-18,CUST-004,Gulf Star Trading,Data cleaning support,Data cleaning support - Gulf Star Trading,4300,215.0,4515.0,Bank Transfer,Collected,Telegram Form
+INC-1083,2025-09-16,CUST-001,Desert Pearl Clinics,Automation setup fee,Automation setup fee - Desert Pearl Clinics,18500,925.0,19425.0,Bank Transfer,Collected,Accounting Export
+INC-1084,2025-09-10,CUST-002,Al Noor Business Center,Monthly service retainer,Monthly service retainer - Al Noor Business Center,8900,445.0,9345.0,Bank Transfer,Collected,Telegram Form
+INC-1085,2025-09-25,CUST-009,Oasis Cafe Group,Monthly service retainer,Monthly service retainer - Oasis Cafe Group,17550,877.5,18427.5,Cheque,Collected,Manual Entry
+INC-1086,2025-09-04,CUST-008,Falcon Legal Advisors,Monthly service retainer,Monthly service retainer - Falcon Legal Advisors,16700,835.0,17535.0,Card,Collected,Manual Entry
+INC-1087,2025-09-25,CUST-007,Ajman Modern School,Automation setup fee,Automation setup fee - Ajman Modern School,17600,880.0,18480.0,Bank Transfer,Pending,Manual Entry
+INC-1088,2025-09-29,CUST-012,Mirdif Learning Hub,Dashboard customization,Dashboard customization - Mirdif Learning Hub,4150,207.5,4357.5,Bank Transfer,Collected,Manual Entry
+INC-1089,2025-09-25,CUST-010,Capital Dental Center,Dashboard customization,Dashboard customization - Capital Dental Center,10350,517.5,10867.5,Card,Collected,Manual Entry
+INC-1090,2025-09-15,CUST-005,Marina Fit Studio,Monthly service retainer,Monthly service retainer - Marina Fit Studio,15350,767.5,16117.5,Bank Transfer,Collected,Google Sheet Import
+INC-1091,2025-10-31,CUST-009,Oasis Cafe Group,Dashboard customization,Dashboard customization - Oasis Cafe Group,10550,527.5,11077.5,Bank Transfer,Collected,Google Sheet Import
+INC-1092,2025-10-24,CUST-007,Ajman Modern School,Dashboard customization,Dashboard customization - Ajman Modern School,8750,437.5,9187.5,Card,Collected,Accounting Export
+INC-1093,2025-10-10,CUST-008,Falcon Legal Advisors,Automation setup fee,Automation setup fee - Falcon Legal Advisors,10050,502.5,10552.5,Cash,Collected,Accounting Export
+INC-1094,2025-10-28,CUST-011,Ras Al Khaimah Warehousing,Monthly service retainer,Monthly service retainer - Ras Al Khaimah Warehousing,14750,737.5,15487.5,Bank Transfer,Collected,Google Sheet Import
+INC-1095,2025-10-16,CUST-005,Marina Fit Studio,Monthly service retainer,Monthly service retainer - Marina Fit Studio,15100,755.0,15855.0,Card,Collected,Accounting Export
+INC-1096,2025-10-01,CUST-010,Capital Dental Center,Dashboard customization,Dashboard customization - Capital Dental Center,5850,292.5,6142.5,Bank Transfer,Collected,Telegram Form
+INC-1097,2025-10-10,CUST-004,Gulf Star Trading,Monthly service retainer,Monthly service retainer - Gulf Star Trading,16000,800.0,16800.0,Bank Transfer,Collected,Google Sheet Import
+INC-1098,2025-10-10,CUST-002,Al Noor Business Center,Data cleaning support,Data cleaning support - Al Noor Business Center,3100,155.0,3255.0,Bank Transfer,Collected,Google Sheet Import
+INC-1099,2025-10-16,CUST-003,Palm View Real Estate,Monthly service retainer,Monthly service retainer - Palm View Real Estate,15950,797.5,16747.5,Bank Transfer,Collected,Manual Entry
+INC-1100,2025-10-13,CUST-006,Blue Dhow Logistics,Dashboard customization,Dashboard customization - Blue Dhow Logistics,5800,290.0,6090.0,Bank Transfer,Collected,Manual Entry
+INC-1101,2025-11-13,CUST-006,Blue Dhow Logistics,Monthly service retainer,Monthly service retainer - Blue Dhow Logistics,18450,922.5,19372.5,Card,Pending,Google Sheet Import
+INC-1102,2025-11-11,CUST-011,Ras Al Khaimah Warehousing,Monthly service retainer,Monthly service retainer - Ras Al Khaimah Warehousing,9850,492.5,10342.5,Bank Transfer,Collected,Manual Entry
+INC-1103,2025-11-04,CUST-003,Palm View Real Estate,Dashboard customization,Dashboard customization - Palm View Real Estate,4600,230.0,4830.0,Cheque,Collected,Google Sheet Import
+INC-1104,2025-11-24,CUST-010,Capital Dental Center,Monthly service retainer,Monthly service retainer - Capital Dental Center,20200,1010.0,21210.0,Bank Transfer,Collected,Manual Entry
+INC-1105,2025-11-04,CUST-002,Al Noor Business Center,Automation setup fee,Automation setup fee - Al Noor Business Center,10250,512.5,10762.5,Bank Transfer,Collected,Telegram Form
+INC-1106,2025-11-27,CUST-004,Gulf Star Trading,Monthly service retainer,Monthly service retainer - Gulf Star Trading,15150,757.5,15907.5,Bank Transfer,Collected,Telegram Form
+INC-1107,2025-11-12,CUST-007,Ajman Modern School,Automation setup fee,Automation setup fee - Ajman Modern School,9800,490.0,10290.0,Bank Transfer,Collected,Google Sheet Import
+INC-1108,2025-11-25,CUST-009,Oasis Cafe Group,Data cleaning support,Data cleaning support - Oasis Cafe Group,3950,197.5,4147.5,Bank Transfer,Pending,Manual Entry
+INC-1109,2025-11-27,CUST-005,Marina Fit Studio,Automation setup fee,Automation setup fee - Marina Fit Studio,11350,567.5,11917.5,Bank Transfer,Collected,Google Sheet Import
+INC-1110,2025-11-11,CUST-001,Desert Pearl Clinics,Training workshop,Training workshop - Desert Pearl Clinics,2800,140.0,2940.0,Bank Transfer,Collected,Telegram Form
+INC-1111,2025-11-20,CUST-012,Mirdif Learning Hub,Automation setup fee,Automation setup fee - Mirdif Learning Hub,7950,397.5,8347.5,Bank Transfer,Collected,Manual Entry
+INC-1112,2025-12-19,CUST-005,Marina Fit Studio,Dashboard customization,Dashboard customization - Marina Fit Studio,9500,475.0,9975.0,Bank Transfer,Collected,Manual Entry
+INC-1113,2025-12-09,CUST-011,Ras Al Khaimah Warehousing,Data cleaning support,Data cleaning support - Ras Al Khaimah Warehousing,6350,317.5,6667.5,Bank Transfer,Collected,Google Sheet Import
+INC-1114,2025-12-03,CUST-002,Al Noor Business Center,Training workshop,Training workshop - Al Noor Business Center,5700,285.0,5985.0,Bank Transfer,Collected,Google Sheet Import
+INC-1115,2025-12-19,CUST-010,Capital Dental Center,Data cleaning support,Data cleaning support - Capital Dental Center,8500,425.0,8925.0,Bank Transfer,Collected,Google Sheet Import
+INC-1116,2025-12-22,CUST-007,Ajman Modern School,Training workshop,Training workshop - Ajman Modern School,4150,207.5,4357.5,Bank Transfer,Collected,Accounting Export
+INC-1117,2025-12-01,CUST-001,Desert Pearl Clinics,Dashboard customization,Dashboard customization - Desert Pearl Clinics,8650,432.5,9082.5,Bank Transfer,Pending,Accounting Export
+INC-1118,2025-12-30,CUST-008,Falcon Legal Advisors,Automation setup fee,Automation setup fee - Falcon Legal Advisors,17900,895.0,18795.0,Cash,Collected,Google Sheet Import
+INC-1119,2025-12-19,CUST-006,Blue Dhow Logistics,Monthly service retainer,Monthly service retainer - Blue Dhow Logistics,15500,775.0,16275.0,Cheque,Collected,Google Sheet Import

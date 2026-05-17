@@ -1,0 +1,317 @@
+transaction_id,source_id,date,transaction_type,category,description,amount_aed,signed_amount_aed,payment_method,source_channel
+TRX-00124,EXP-5005,2025-01-01,Expense,Bank charges,Bank charges expense,200,-200,Cheque,Manual Entry
+TRX-00002,INC-1002,2025-01-03,Income,Monthly service retainer,Monthly service retainer - Mirdif Learning Hub,11100,11100,Bank Transfer,Manual Entry
+TRX-00120,EXP-5001,2025-01-06,Expense,Salaries and wages,Salaries and wages expense,28150,-28150,Cheque,Google Sheet Import
+TRX-00126,EXP-5007,2025-01-06,Expense,Professional fees,Professional fees expense,3675,-3675,Bank Transfer,Accounting Export
+TRX-00003,INC-1003,2025-01-06,Income,Monthly service retainer,Monthly service retainer - Capital Dental Center,11650,11650,Bank Transfer,Accounting Export
+TRX-00010,INC-1010,2025-01-07,Income,Automation setup fee,Automation setup fee - Desert Pearl Clinics,10500,10500,Bank Transfer,Telegram Form
+TRX-00005,INC-1005,2025-01-10,Income,Automation setup fee,Automation setup fee - Falcon Legal Advisors,8150,8150,Bank Transfer,Accounting Export
+TRX-00131,EXP-5012,2025-01-14,Expense,Transport and fuel,Transport and fuel expense,650,-650,Cash,Google Sheet Import
+TRX-00007,INC-1007,2025-01-17,Income,Data cleaning support,Data cleaning support - Ajman Modern School,7750,7750,Bank Transfer,Accounting Export
+TRX-00134,EXP-5015,2025-01-17,Expense,Transport and fuel,Transport and fuel expense,1250,-1250,Bank Transfer,Telegram Form
+TRX-00130,EXP-5011,2025-01-20,Expense,Marketing,Marketing expense,4225,-4225,Bank Transfer,Manual Entry
+TRX-00133,EXP-5014,2025-01-21,Expense,Office supplies,Office supplies expense,875,-875,Cash,Accounting Export
+TRX-00132,EXP-5013,2025-01-21,Expense,Professional fees,Professional fees expense,3750,-3750,Bank Transfer,Google Sheet Import
+TRX-00128,EXP-5009,2025-01-22,Expense,Transport and fuel,Transport and fuel expense,1875,-1875,Bank Transfer,Manual Entry
+TRX-00129,EXP-5010,2025-01-23,Expense,Marketing,Marketing expense,4875,-4875,Card,Telegram Form
+TRX-00125,EXP-5006,2025-01-24,Expense,Maintenance,Maintenance expense,725,-725,Bank Transfer,Manual Entry
+TRX-00123,EXP-5004,2025-01-24,Expense,Telecom and internet,Telecom and internet expense,1050,-1050,Bank Transfer,Accounting Export
+TRX-00001,INC-1001,2025-01-24,Income,Ad hoc reporting,Ad hoc reporting - Al Noor Business Center,2650,2650,Bank Transfer,Accounting Export
+TRX-00009,INC-1009,2025-01-24,Income,Monthly service retainer,Monthly service retainer - Gulf Star Trading,10400,10400,Bank Transfer,Manual Entry
+TRX-00137,EXP-5018,2025-01-27,Expense,Marketing,Marketing expense,3050,-3050,Bank Transfer,Accounting Export
+TRX-00122,EXP-5003,2025-01-28,Expense,Software subscriptions,Software subscriptions expense,3050,-3050,Card,Accounting Export
+TRX-00008,INC-1008,2025-01-29,Income,Data cleaning support,Data cleaning support - Palm View Real Estate,4550,4550,Bank Transfer,Google Sheet Import
+TRX-00136,EXP-5017,2025-01-29,Expense,Marketing,Marketing expense,4300,-4300,Cheque,Telegram Form
+TRX-00004,INC-1004,2025-01-30,Income,Monthly service retainer,Monthly service retainer - Blue Dhow Logistics,13300,13300,Bank Transfer,Google Sheet Import
+TRX-00006,INC-1006,2025-01-30,Income,Dashboard customization,Dashboard customization - Ras Al Khaimah Warehousing,8250,8250,Bank Transfer,Telegram Form
+TRX-00011,INC-1011,2025-01-30,Income,Monthly service retainer,Monthly service retainer - Oasis Cafe Group,16950,16950,Bank Transfer,Manual Entry
+TRX-00121,EXP-5002,2025-01-30,Expense,Office rent,Office rent expense,11475,-11475,Cash,Telegram Form
+TRX-00127,EXP-5008,2025-01-31,Expense,Transport and fuel,Transport and fuel expense,1925,-1925,Bank Transfer,Manual Entry
+TRX-00135,EXP-5016,2025-01-31,Expense,Bank charges,Bank charges expense,275,-275,Cash,Accounting Export
+TRX-00012,INC-1012,2025-02-03,Income,Monthly service retainer,Monthly service retainer - Mirdif Learning Hub,15950,15950,Bank Transfer,Accounting Export
+TRX-00143,EXP-5024,2025-02-04,Expense,Professional fees,Professional fees expense,1925,-1925,Bank Transfer,Telegram Form
+TRX-00018,INC-1018,2025-02-05,Income,Monthly service retainer,Monthly service retainer - Desert Pearl Clinics,18400,18400,Cheque,Telegram Form
+TRX-00141,EXP-5022,2025-02-05,Expense,Telecom and internet,Telecom and internet expense,1800,-1800,Bank Transfer,Google Sheet Import
+TRX-00138,EXP-5019,2025-02-05,Expense,Salaries and wages,Salaries and wages expense,31900,-31900,Cash,Accounting Export
+TRX-00019,INC-1019,2025-02-10,Income,Dashboard customization,Dashboard customization - Capital Dental Center,11550,11550,Bank Transfer,Manual Entry
+TRX-00020,INC-1020,2025-02-11,Income,Monthly service retainer,Monthly service retainer - Palm View Real Estate,15800,15800,Card,Google Sheet Import
+TRX-00150,EXP-5031,2025-02-12,Expense,Transport and fuel,Transport and fuel expense,1875,-1875,Bank Transfer,Manual Entry
+TRX-00014,INC-1014,2025-02-13,Income,Ad hoc reporting,Ad hoc reporting - Blue Dhow Logistics,4550,4550,Cheque,Google Sheet Import
+TRX-00017,INC-1017,2025-02-14,Income,Monthly service retainer,Monthly service retainer - Ras Al Khaimah Warehousing,13400,13400,Bank Transfer,Google Sheet Import
+TRX-00013,INC-1013,2025-02-17,Income,Dashboard customization,Dashboard customization - Oasis Cafe Group,10050,10050,Bank Transfer,Manual Entry
+TRX-00139,EXP-5020,2025-02-17,Expense,Office rent,Office rent expense,9650,-9650,Bank Transfer,Manual Entry
+TRX-00148,EXP-5029,2025-02-18,Expense,Professional fees,Professional fees expense,2325,-2325,Cheque,Accounting Export
+TRX-00145,EXP-5026,2025-02-19,Expense,Transport and fuel,Transport and fuel expense,2200,-2200,Bank Transfer,Accounting Export
+TRX-00147,EXP-5028,2025-02-21,Expense,Marketing,Marketing expense,4775,-4775,Cash,Telegram Form
+TRX-00142,EXP-5023,2025-02-21,Expense,Professional fees,Professional fees expense,3775,-3775,Bank Transfer,Telegram Form
+TRX-00149,EXP-5030,2025-02-21,Expense,Maintenance,Maintenance expense,1650,-1650,Cash,Manual Entry
+TRX-00021,INC-1021,2025-02-21,Income,Monthly service retainer,Monthly service retainer - Falcon Legal Advisors,20650,20650,Bank Transfer,Manual Entry
+TRX-00146,EXP-5027,2025-02-21,Expense,Office supplies,Office supplies expense,425,-425,Bank Transfer,Google Sheet Import
+TRX-00015,INC-1015,2025-02-25,Income,Monthly service retainer,Monthly service retainer - Marina Fit Studio,16950,16950,Bank Transfer,Google Sheet Import
+TRX-00016,INC-1016,2025-02-25,Income,Automation setup fee,Automation setup fee - Al Noor Business Center,15750,15750,Cheque,Google Sheet Import
+TRX-00144,EXP-5025,2025-02-27,Expense,Office supplies,Office supplies expense,850,-850,Card,Telegram Form
+TRX-00140,EXP-5021,2025-02-28,Expense,Software subscriptions,Software subscriptions expense,3100,-3100,Bank Transfer,Accounting Export
+TRX-00159,EXP-5040,2025-03-03,Expense,Professional fees,Professional fees expense,3500,-3500,Bank Transfer,Manual Entry
+TRX-00029,INC-1029,2025-03-03,Income,Monthly service retainer,Monthly service retainer - Palm View Real Estate,22000,22000,Cheque,Accounting Export
+TRX-00022,INC-1022,2025-03-05,Income,Monthly service retainer,Monthly service retainer - Ras Al Khaimah Warehousing,11450,11450,Card,Telegram Form
+TRX-00028,INC-1028,2025-03-05,Income,Automation setup fee,Automation setup fee - Ajman Modern School,16950,16950,Bank Transfer,Google Sheet Import
+TRX-00166,EXP-5047,2025-03-07,Expense,Transport and fuel,Transport and fuel expense,1725,-1725,Cash,Accounting Export
+TRX-00152,EXP-5033,2025-03-07,Expense,Office rent,Office rent expense,10800,-10800,Bank Transfer,Google Sheet Import
+TRX-00027,INC-1027,2025-03-11,Income,Data cleaning support,Data cleaning support - Gulf Star Trading,4100,4100,Bank Transfer,Telegram Form
+TRX-00030,INC-1030,2025-03-11,Income,Monthly service retainer,Monthly service retainer - Mirdif Learning Hub,15050,15050,Cash,Telegram Form
+TRX-00161,EXP-5042,2025-03-12,Expense,Bank charges,Bank charges expense,100,-100,Bank Transfer,Accounting Export
+TRX-00167,EXP-5048,2025-03-13,Expense,Bank charges,Bank charges expense,250,-250,Bank Transfer,Manual Entry
+TRX-00160,EXP-5041,2025-03-13,Expense,Office supplies,Office supplies expense,1100,-1100,Bank Transfer,Accounting Export
+TRX-00163,EXP-5044,2025-03-14,Expense,Office supplies,Office supplies expense,1300,-1300,Card,Telegram Form
+TRX-00154,EXP-5035,2025-03-17,Expense,Telecom and internet,Telecom and internet expense,1725,-1725,Card,Telegram Form
+TRX-00155,EXP-5036,2025-03-18,Expense,Transport and fuel,Transport and fuel expense,2025,-2025,Bank Transfer,Accounting Export
+TRX-00165,EXP-5046,2025-03-18,Expense,Maintenance,Maintenance expense,1125,-1125,Card,Accounting Export
+TRX-00168,EXP-5049,2025-03-18,Expense,Office supplies,Office supplies expense,1350,-1350,Bank Transfer,Google Sheet Import
+TRX-00158,EXP-5039,2025-03-19,Expense,Transport and fuel,Transport and fuel expense,2850,-2850,Cheque,Manual Entry
+TRX-00025,INC-1025,2025-03-20,Income,Monthly service retainer,Monthly service retainer - Desert Pearl Clinics,9750,9750,Bank Transfer,Accounting Export
+TRX-00153,EXP-5034,2025-03-21,Expense,Software subscriptions,Software subscriptions expense,2550,-2550,Bank Transfer,Telegram Form
+TRX-00157,EXP-5038,2025-03-21,Expense,Office supplies,Office supplies expense,1175,-1175,Cheque,Accounting Export
+TRX-00031,INC-1031,2025-03-21,Income,Monthly service retainer,Monthly service retainer - Al Noor Business Center,13750,13750,Bank Transfer,Google Sheet Import
+TRX-00156,EXP-5037,2025-03-24,Expense,Maintenance,Maintenance expense,900,-900,Cheque,Accounting Export
+TRX-00032,INC-1032,2025-03-24,Income,Data cleaning support,Data cleaning support - Oasis Cafe Group,6800,6800,Bank Transfer,Accounting Export
+TRX-00164,EXP-5045,2025-03-24,Expense,Professional fees,Professional fees expense,975,-975,Bank Transfer,Google Sheet Import
+TRX-00023,INC-1023,2025-03-25,Income,Monthly service retainer,Monthly service retainer - Blue Dhow Logistics,12950,12950,Bank Transfer,Telegram Form
+TRX-00024,INC-1024,2025-03-27,Income,Monthly service retainer,Monthly service retainer - Capital Dental Center,21150,21150,Bank Transfer,Google Sheet Import
+TRX-00162,EXP-5043,2025-03-28,Expense,Marketing,Marketing expense,2300,-2300,Bank Transfer,Accounting Export
+TRX-00151,EXP-5032,2025-03-31,Expense,Salaries and wages,Salaries and wages expense,29000,-29000,Bank Transfer,Accounting Export
+TRX-00026,INC-1026,2025-03-31,Income,Monthly service retainer,Monthly service retainer - Marina Fit Studio,17300,17300,Bank Transfer,Manual Entry
+TRX-00033,INC-1033,2025-04-02,Income,Monthly service retainer,Monthly service retainer - Al Noor Business Center,12750,12750,Bank Transfer,Accounting Export
+TRX-00185,EXP-5066,2025-04-03,Expense,Marketing,Marketing expense,1300,-1300,Bank Transfer,Accounting Export
+TRX-00034,INC-1034,2025-04-03,Income,Monthly service retainer,Monthly service retainer - Desert Pearl Clinics,21450,21450,Cash,Telegram Form
+TRX-00174,EXP-5055,2025-04-03,Expense,Transport and fuel,Transport and fuel expense,950,-950,Bank Transfer,Google Sheet Import
+TRX-00042,INC-1042,2025-04-04,Income,Monthly service retainer,Monthly service retainer - Ras Al Khaimah Warehousing,10050,10050,Card,Manual Entry
+TRX-00181,EXP-5062,2025-04-04,Expense,Office supplies,Office supplies expense,375,-375,Cash,Accounting Export
+TRX-00037,INC-1037,2025-04-07,Income,Monthly service retainer,Monthly service retainer - Blue Dhow Logistics,12100,12100,Bank Transfer,Manual Entry
+TRX-00170,EXP-5051,2025-04-07,Expense,Office rent,Office rent expense,9475,-9475,Card,Manual Entry
+TRX-00171,EXP-5052,2025-04-07,Expense,Software subscriptions,Software subscriptions expense,4150,-4150,Bank Transfer,Telegram Form
+TRX-00172,EXP-5053,2025-04-07,Expense,Telecom and internet,Telecom and internet expense,1675,-1675,Bank Transfer,Manual Entry
+TRX-00039,INC-1039,2025-04-07,Income,Automation setup fee,Automation setup fee - Ajman Modern School,12300,12300,Cheque,Accounting Export
+TRX-00173,EXP-5054,2025-04-08,Expense,Transport and fuel,Transport and fuel expense,1475,-1475,Bank Transfer,Manual Entry
+TRX-00182,EXP-5063,2025-04-09,Expense,Marketing,Marketing expense,4000,-4000,Bank Transfer,Manual Entry
+TRX-00179,EXP-5060,2025-04-11,Expense,Office supplies,Office supplies expense,325,-325,Bank Transfer,Google Sheet Import
+TRX-00184,EXP-5065,2025-04-16,Expense,Transport and fuel,Transport and fuel expense,2350,-2350,Cheque,Manual Entry
+TRX-00183,EXP-5064,2025-04-17,Expense,Bank charges,Bank charges expense,300,-300,Bank Transfer,Manual Entry
+TRX-00178,EXP-5059,2025-04-21,Expense,Professional fees,Professional fees expense,3225,-3225,Bank Transfer,Google Sheet Import
+TRX-00038,INC-1038,2025-04-21,Income,Dashboard customization,Dashboard customization - Gulf Star Trading,4100,4100,Bank Transfer,Telegram Form
+TRX-00177,EXP-5058,2025-04-22,Expense,Bank charges,Bank charges expense,75,-75,Cash,Telegram Form
+TRX-00175,EXP-5056,2025-04-23,Expense,Marketing,Marketing expense,1375,-1375,Bank Transfer,Accounting Export
+TRX-00036,INC-1036,2025-04-23,Income,Monthly service retainer,Monthly service retainer - Palm View Real Estate,16400,16400,Bank Transfer,Google Sheet Import
+TRX-00041,INC-1041,2025-04-24,Income,Dashboard customization,Dashboard customization - Mirdif Learning Hub,3550,3550,Bank Transfer,Accounting Export
+TRX-00169,EXP-5050,2025-04-24,Expense,Salaries and wages,Salaries and wages expense,26575,-26575,Bank Transfer,Accounting Export
+TRX-00040,INC-1040,2025-04-24,Income,Monthly service retainer,Monthly service retainer - Capital Dental Center,10650,10650,Card,Accounting Export
+TRX-00186,EXP-5067,2025-04-24,Expense,Professional fees,Professional fees expense,3575,-3575,Bank Transfer,Google Sheet Import
+TRX-00035,INC-1035,2025-04-25,Income,Data cleaning support,Data cleaning support - Marina Fit Studio,5100,5100,Bank Transfer,Google Sheet Import
+TRX-00180,EXP-5061,2025-04-28,Expense,Office supplies,Office supplies expense,700,-700,Bank Transfer,Google Sheet Import
+TRX-00176,EXP-5057,2025-04-30,Expense,Marketing,Marketing expense,4800,-4800,Bank Transfer,Accounting Export
+TRX-00043,INC-1043,2025-04-30,Income,Monthly service retainer,Monthly service retainer - Falcon Legal Advisors,13150,13150,Bank Transfer,Google Sheet Import
+TRX-00192,EXP-5073,2025-05-01,Expense,Transport and fuel,Transport and fuel expense,2275,-2275,Bank Transfer,Manual Entry
+TRX-00189,EXP-5070,2025-05-01,Expense,Software subscriptions,Software subscriptions expense,3350,-3350,Bank Transfer,Google Sheet Import
+TRX-00202,EXP-5083,2025-05-01,Expense,Office supplies,Office supplies expense,300,-300,Bank Transfer,Manual Entry
+TRX-00044,INC-1044,2025-05-02,Income,Dashboard customization,Dashboard customization - Blue Dhow Logistics,10550,10550,Bank Transfer,Google Sheet Import
+TRX-00195,EXP-5076,2025-05-05,Expense,Bank charges,Bank charges expense,75,-75,Bank Transfer,Manual Entry
+TRX-00194,EXP-5075,2025-05-05,Expense,Bank charges,Bank charges expense,225,-225,Cash,Accounting Export
+TRX-00046,INC-1046,2025-05-07,Income,Training workshop,Training workshop - Ras Al Khaimah Warehousing,5050,5050,Bank Transfer,Google Sheet Import
+TRX-00199,EXP-5080,2025-05-07,Expense,Transport and fuel,Transport and fuel expense,3050,-3050,Card,Telegram Form
+TRX-00191,EXP-5072,2025-05-07,Expense,Marketing,Marketing expense,925,-925,Bank Transfer,Telegram Form
+TRX-00050,INC-1050,2025-05-08,Income,Monthly service retainer,Monthly service retainer - Marina Fit Studio,19300,19300,Cash,Google Sheet Import
+TRX-00193,EXP-5074,2025-05-08,Expense,Office supplies,Office supplies expense,775,-775,Bank Transfer,Accounting Export
+TRX-00190,EXP-5071,2025-05-13,Expense,Telecom and internet,Telecom and internet expense,875,-875,Card,Manual Entry
+TRX-00196,EXP-5077,2025-05-13,Expense,Office supplies,Office supplies expense,750,-750,Bank Transfer,Manual Entry
+TRX-00047,INC-1047,2025-05-14,Income,Monthly service retainer,Monthly service retainer - Falcon Legal Advisors,10200,10200,Bank Transfer,Accounting Export
+TRX-00204,EXP-5085,2025-05-15,Expense,Marketing,Marketing expense,1000,-1000,Bank Transfer,Manual Entry
+TRX-00187,EXP-5068,2025-05-16,Expense,Salaries and wages,Salaries and wages expense,33175,-33175,Bank Transfer,Manual Entry
+TRX-00198,EXP-5079,2025-05-19,Expense,Office supplies,Office supplies expense,300,-300,Cheque,Manual Entry
+TRX-00203,EXP-5084,2025-05-19,Expense,Transport and fuel,Transport and fuel expense,1750,-1750,Card,Telegram Form
+TRX-00200,EXP-5081,2025-05-20,Expense,Professional fees,Professional fees expense,2525,-2525,Bank Transfer,Google Sheet Import
+TRX-00188,EXP-5069,2025-05-26,Expense,Office rent,Office rent expense,9775,-9775,Cheque,Google Sheet Import
+TRX-00045,INC-1045,2025-05-26,Income,Monthly service retainer,Monthly service retainer - Oasis Cafe Group,18500,18500,Card,Telegram Form
+TRX-00049,INC-1049,2025-05-28,Income,Training workshop,Training workshop - Gulf Star Trading,3700,3700,Card,Telegram Form
+TRX-00201,EXP-5082,2025-05-30,Expense,Marketing,Marketing expense,3050,-3050,Card,Accounting Export
+TRX-00197,EXP-5078,2025-05-30,Expense,Maintenance,Maintenance expense,650,-650,Card,Google Sheet Import
+TRX-00048,INC-1048,2025-05-30,Income,Monthly service retainer,Monthly service retainer - Palm View Real Estate,13350,13350,Bank Transfer,Google Sheet Import
+TRX-00055,INC-1055,2025-06-02,Income,Data cleaning support,Data cleaning support - Al Noor Business Center,4650,4650,Bank Transfer,Telegram Form
+TRX-00214,EXP-5095,2025-06-03,Expense,Professional fees,Professional fees expense,4050,-4050,Bank Transfer,Google Sheet Import
+TRX-00211,EXP-5092,2025-06-03,Expense,Bank charges,Bank charges expense,150,-150,Bank Transfer,Manual Entry
+TRX-00206,EXP-5087,2025-06-05,Expense,Office rent,Office rent expense,8950,-8950,Bank Transfer,Google Sheet Import
+TRX-00056,INC-1056,2025-06-05,Income,Ad hoc reporting,Ad hoc reporting - Ajman Modern School,2200,2200,Bank Transfer,Google Sheet Import
+TRX-00057,INC-1057,2025-06-05,Income,Monthly service retainer,Monthly service retainer - Ras Al Khaimah Warehousing,21800,21800,Bank Transfer,Manual Entry
+TRX-00221,EXP-5102,2025-06-06,Expense,Marketing,Marketing expense,3500,-3500,Bank Transfer,Telegram Form
+TRX-00052,INC-1052,2025-06-11,Income,Data cleaning support,Data cleaning support - Marina Fit Studio,8100,8100,Bank Transfer,Manual Entry
+TRX-00051,INC-1051,2025-06-11,Income,Data cleaning support,Data cleaning support - Capital Dental Center,8100,8100,Bank Transfer,Telegram Form
+TRX-00053,INC-1053,2025-06-11,Income,Data cleaning support,Data cleaning support - Falcon Legal Advisors,8150,8150,Bank Transfer,Manual Entry
+TRX-00054,INC-1054,2025-06-12,Income,Data cleaning support,Data cleaning support - Gulf Star Trading,8800,8800,Bank Transfer,Google Sheet Import
+TRX-00218,EXP-5099,2025-06-13,Expense,Transport and fuel,Transport and fuel expense,1575,-1575,Bank Transfer,Google Sheet Import
+TRX-00220,EXP-5101,2025-06-13,Expense,Professional fees,Professional fees expense,3125,-3125,Bank Transfer,Accounting Export
+TRX-00059,INC-1059,2025-06-16,Income,Monthly service retainer,Monthly service retainer - Desert Pearl Clinics,14300,14300,Bank Transfer,Telegram Form
+TRX-00216,EXP-5097,2025-06-16,Expense,Transport and fuel,Transport and fuel expense,2725,-2725,Cheque,Google Sheet Import
+TRX-00205,EXP-5086,2025-06-17,Expense,Salaries and wages,Salaries and wages expense,33700,-33700,Bank Transfer,Google Sheet Import
+TRX-00212,EXP-5093,2025-06-17,Expense,Transport and fuel,Transport and fuel expense,750,-750,Cash,Accounting Export
+TRX-00217,EXP-5098,2025-06-20,Expense,Transport and fuel,Transport and fuel expense,750,-750,Cheque,Google Sheet Import
+TRX-00210,EXP-5091,2025-06-20,Expense,Marketing,Marketing expense,2250,-2250,Bank Transfer,Manual Entry
+TRX-00215,EXP-5096,2025-06-23,Expense,Transport and fuel,Transport and fuel expense,1475,-1475,Bank Transfer,Manual Entry
+TRX-00058,INC-1058,2025-06-25,Income,Dashboard customization,Dashboard customization - Palm View Real Estate,3500,3500,Bank Transfer,Google Sheet Import
+TRX-00208,EXP-5089,2025-06-26,Expense,Telecom and internet,Telecom and internet expense,1300,-1300,Card,Accounting Export
+TRX-00213,EXP-5094,2025-06-27,Expense,Professional fees,Professional fees expense,3725,-3725,Bank Transfer,Google Sheet Import
+TRX-00219,EXP-5100,2025-06-30,Expense,Marketing,Marketing expense,1125,-1125,Card,Telegram Form
+TRX-00207,EXP-5088,2025-06-30,Expense,Software subscriptions,Software subscriptions expense,3625,-3625,Bank Transfer,Google Sheet Import
+TRX-00222,EXP-5103,2025-06-30,Expense,Professional fees,Professional fees expense,2025,-2025,Card,Google Sheet Import
+TRX-00209,EXP-5090,2025-06-30,Expense,Maintenance,Maintenance expense,1450,-1450,Cheque,Accounting Export
+TRX-00225,EXP-5106,2025-07-03,Expense,Software subscriptions,Software subscriptions expense,2125,-2125,Bank Transfer,Google Sheet Import
+TRX-00235,EXP-5116,2025-07-03,Expense,Professional fees,Professional fees expense,1275,-1275,Card,Accounting Export
+TRX-00066,INC-1066,2025-07-03,Income,Monthly service retainer,Monthly service retainer - Blue Dhow Logistics,14900,14900,Bank Transfer,Google Sheet Import
+TRX-00068,INC-1068,2025-07-04,Income,Dashboard customization,Dashboard customization - Oasis Cafe Group,10050,10050,Card,Google Sheet Import
+TRX-00061,INC-1061,2025-07-08,Income,Dashboard customization,Dashboard customization - Al Noor Business Center,6700,6700,Bank Transfer,Google Sheet Import
+TRX-00228,EXP-5109,2025-07-08,Expense,Transport and fuel,Transport and fuel expense,2250,-2250,Card,Manual Entry
+TRX-00230,EXP-5111,2025-07-10,Expense,Bank charges,Bank charges expense,125,-125,Bank Transfer,Manual Entry
+TRX-00065,INC-1065,2025-07-14,Income,Ad hoc reporting,Ad hoc reporting - Ras Al Khaimah Warehousing,2100,2100,Bank Transfer,Telegram Form
+TRX-00224,EXP-5105,2025-07-15,Expense,Office rent,Office rent expense,11350,-11350,Cash,Manual Entry
+TRX-00231,EXP-5112,2025-07-16,Expense,Office supplies,Office supplies expense,1200,-1200,Card,Manual Entry
+TRX-00232,EXP-5113,2025-07-17,Expense,Bank charges,Bank charges expense,300,-300,Bank Transfer,Telegram Form
+TRX-00227,EXP-5108,2025-07-17,Expense,Transport and fuel,Transport and fuel expense,975,-975,Bank Transfer,Google Sheet Import
+TRX-00067,INC-1067,2025-07-17,Income,Dashboard customization,Dashboard customization - Desert Pearl Clinics,6750,6750,Bank Transfer,Telegram Form
+TRX-00060,INC-1060,2025-07-17,Income,Monthly service retainer,Monthly service retainer - Palm View Real Estate,14000,14000,Bank Transfer,Telegram Form
+TRX-00062,INC-1062,2025-07-18,Income,Monthly service retainer,Monthly service retainer - Gulf Star Trading,12350,12350,Card,Manual Entry
+TRX-00223,EXP-5104,2025-07-18,Expense,Salaries and wages,Salaries and wages expense,31500,-31500,Bank Transfer,Manual Entry
+TRX-00229,EXP-5110,2025-07-21,Expense,Bank charges,Bank charges expense,275,-275,Bank Transfer,Accounting Export
+TRX-00226,EXP-5107,2025-07-23,Expense,Telecom and internet,Telecom and internet expense,1375,-1375,Bank Transfer,Accounting Export
+TRX-00064,INC-1064,2025-07-23,Income,Monthly service retainer,Monthly service retainer - Falcon Legal Advisors,9650,9650,Bank Transfer,Telegram Form
+TRX-00063,INC-1063,2025-07-23,Income,Monthly service retainer,Monthly service retainer - Capital Dental Center,17600,17600,Bank Transfer,Google Sheet Import
+TRX-00234,EXP-5115,2025-07-24,Expense,Office supplies,Office supplies expense,1250,-1250,Cash,Google Sheet Import
+TRX-00233,EXP-5114,2025-07-28,Expense,Office supplies,Office supplies expense,475,-475,Bank Transfer,Google Sheet Import
+TRX-00239,EXP-5120,2025-08-01,Expense,Telecom and internet,Telecom and internet expense,1700,-1700,Bank Transfer,Google Sheet Import
+TRX-00069,INC-1069,2025-08-06,Income,Monthly service retainer,Monthly service retainer - Marina Fit Studio,11850,11850,Bank Transfer,Google Sheet Import
+TRX-00243,EXP-5124,2025-08-07,Expense,Bank charges,Bank charges expense,125,-125,Bank Transfer,Manual Entry
+TRX-00238,EXP-5119,2025-08-07,Expense,Software subscriptions,Software subscriptions expense,3475,-3475,Card,Google Sheet Import
+TRX-00237,EXP-5118,2025-08-07,Expense,Office rent,Office rent expense,10450,-10450,Bank Transfer,Accounting Export
+TRX-00079,INC-1079,2025-08-08,Income,Dashboard customization,Dashboard customization - Mirdif Learning Hub,6950,6950,Cash,Accounting Export
+TRX-00244,EXP-5125,2025-08-08,Expense,Maintenance,Maintenance expense,1450,-1450,Card,Accounting Export
+TRX-00071,INC-1071,2025-08-08,Income,Data cleaning support,Data cleaning support - Ajman Modern School,6050,6050,Card,Manual Entry
+TRX-00074,INC-1074,2025-08-11,Income,Monthly service retainer,Monthly service retainer - Oasis Cafe Group,17850,17850,Bank Transfer,Google Sheet Import
+TRX-00241,EXP-5122,2025-08-12,Expense,Marketing,Marketing expense,1425,-1425,Bank Transfer,Manual Entry
+TRX-00236,EXP-5117,2025-08-12,Expense,Salaries and wages,Salaries and wages expense,26700,-26700,Bank Transfer,Accounting Export
+TRX-00078,INC-1078,2025-08-13,Income,Training workshop,Training workshop - Falcon Legal Advisors,4100,4100,Bank Transfer,Manual Entry
+TRX-00073,INC-1073,2025-08-15,Income,Dashboard customization,Dashboard customization - Ras Al Khaimah Warehousing,5500,5500,Bank Transfer,Telegram Form
+TRX-00247,EXP-5128,2025-08-18,Expense,Transport and fuel,Transport and fuel expense,2550,-2550,Card,Accounting Export
+TRX-00075,INC-1075,2025-08-20,Income,Monthly service retainer,Monthly service retainer - Blue Dhow Logistics,11300,11300,Bank Transfer,Accounting Export
+TRX-00077,INC-1077,2025-08-20,Income,Dashboard customization,Dashboard customization - Gulf Star Trading,10750,10750,Bank Transfer,Google Sheet Import
+TRX-00070,INC-1070,2025-08-21,Income,Ad hoc reporting,Ad hoc reporting - Al Noor Business Center,3450,3450,Bank Transfer,Google Sheet Import
+TRX-00242,EXP-5123,2025-08-22,Expense,Maintenance,Maintenance expense,650,-650,Bank Transfer,Google Sheet Import
+TRX-00246,EXP-5127,2025-08-22,Expense,Transport and fuel,Transport and fuel expense,700,-700,Bank Transfer,Manual Entry
+TRX-00240,EXP-5121,2025-08-25,Expense,Bank charges,Bank charges expense,275,-275,Bank Transfer,Manual Entry
+TRX-00245,EXP-5126,2025-08-25,Expense,Maintenance,Maintenance expense,575,-575,Bank Transfer,Google Sheet Import
+TRX-00072,INC-1072,2025-08-25,Income,Monthly service retainer,Monthly service retainer - Desert Pearl Clinics,17100,17100,Bank Transfer,Manual Entry
+TRX-00248,EXP-5129,2025-08-27,Expense,Transport and fuel,Transport and fuel expense,2250,-2250,Card,Telegram Form
+TRX-00076,INC-1076,2025-08-27,Income,Monthly service retainer,Monthly service retainer - Palm View Real Estate,20400,20400,Bank Transfer,Manual Entry
+TRX-00249,EXP-5130,2025-08-29,Expense,Transport and fuel,Transport and fuel expense,2050,-2050,Bank Transfer,Manual Entry
+TRX-00258,EXP-5139,2025-09-02,Expense,Maintenance,Maintenance expense,1825,-1825,Bank Transfer,Manual Entry
+TRX-00086,INC-1086,2025-09-04,Income,Monthly service retainer,Monthly service retainer - Falcon Legal Advisors,16700,16700,Card,Manual Entry
+TRX-00264,EXP-5145,2025-09-08,Expense,Transport and fuel,Transport and fuel expense,725,-725,Bank Transfer,Google Sheet Import
+TRX-00084,INC-1084,2025-09-10,Income,Monthly service retainer,Monthly service retainer - Al Noor Business Center,8900,8900,Bank Transfer,Telegram Form
+TRX-00265,EXP-5146,2025-09-11,Expense,Transport and fuel,Transport and fuel expense,1325,-1325,Card,Google Sheet Import
+TRX-00255,EXP-5136,2025-09-15,Expense,Marketing,Marketing expense,3250,-3250,Bank Transfer,Manual Entry
+TRX-00090,INC-1090,2025-09-15,Income,Monthly service retainer,Monthly service retainer - Marina Fit Studio,15350,15350,Bank Transfer,Google Sheet Import
+TRX-00251,EXP-5132,2025-09-15,Expense,Office rent,Office rent expense,11100,-11100,Bank Transfer,Manual Entry
+TRX-00083,INC-1083,2025-09-16,Income,Automation setup fee,Automation setup fee - Desert Pearl Clinics,18500,18500,Bank Transfer,Accounting Export
+TRX-00257,EXP-5138,2025-09-16,Expense,Office supplies,Office supplies expense,1075,-1075,Bank Transfer,Google Sheet Import
+TRX-00262,EXP-5143,2025-09-16,Expense,Maintenance,Maintenance expense,1225,-1225,Bank Transfer,Google Sheet Import
+TRX-00081,INC-1081,2025-09-17,Income,Automation setup fee,Automation setup fee - Blue Dhow Logistics,6650,6650,Bank Transfer,Manual Entry
+TRX-00263,EXP-5144,2025-09-17,Expense,Transport and fuel,Transport and fuel expense,2000,-2000,Bank Transfer,Accounting Export
+TRX-00261,EXP-5142,2025-09-17,Expense,Bank charges,Bank charges expense,175,-175,Cash,Telegram Form
+TRX-00256,EXP-5137,2025-09-18,Expense,Marketing,Marketing expense,2825,-2825,Bank Transfer,Manual Entry
+TRX-00082,INC-1082,2025-09-18,Income,Data cleaning support,Data cleaning support - Gulf Star Trading,4300,4300,Bank Transfer,Telegram Form
+TRX-00254,EXP-5135,2025-09-18,Expense,Professional fees,Professional fees expense,1125,-1125,Bank Transfer,Accounting Export
+TRX-00260,EXP-5141,2025-09-19,Expense,Marketing,Marketing expense,3825,-3825,Bank Transfer,Accounting Export
+TRX-00267,EXP-5148,2025-09-19,Expense,Professional fees,Professional fees expense,1425,-1425,Cheque,Accounting Export
+TRX-00252,EXP-5133,2025-09-19,Expense,Software subscriptions,Software subscriptions expense,2750,-2750,Cash,Accounting Export
+TRX-00266,EXP-5147,2025-09-22,Expense,Bank charges,Bank charges expense,275,-275,Bank Transfer,Telegram Form
+TRX-00253,EXP-5134,2025-09-22,Expense,Telecom and internet,Telecom and internet expense,1325,-1325,Bank Transfer,Manual Entry
+TRX-00085,INC-1085,2025-09-25,Income,Monthly service retainer,Monthly service retainer - Oasis Cafe Group,17550,17550,Cheque,Manual Entry
+TRX-00089,INC-1089,2025-09-25,Income,Dashboard customization,Dashboard customization - Capital Dental Center,10350,10350,Card,Manual Entry
+TRX-00087,INC-1087,2025-09-25,Income,Automation setup fee,Automation setup fee - Ajman Modern School,17600,17600,Bank Transfer,Manual Entry
+TRX-00250,EXP-5131,2025-09-29,Expense,Salaries and wages,Salaries and wages expense,26300,-26300,Bank Transfer,Accounting Export
+TRX-00088,INC-1088,2025-09-29,Income,Dashboard customization,Dashboard customization - Mirdif Learning Hub,4150,4150,Bank Transfer,Manual Entry
+TRX-00080,INC-1080,2025-09-30,Income,Training workshop,Training workshop - Ras Al Khaimah Warehousing,4600,4600,Bank Transfer,Telegram Form
+TRX-00259,EXP-5140,2025-09-30,Expense,Marketing,Marketing expense,4350,-4350,Bank Transfer,Accounting Export
+TRX-00096,INC-1096,2025-10-01,Income,Dashboard customization,Dashboard customization - Capital Dental Center,5850,5850,Bank Transfer,Telegram Form
+TRX-00281,EXP-5162,2025-10-01,Expense,Transport and fuel,Transport and fuel expense,2225,-2225,Bank Transfer,Manual Entry
+TRX-00274,EXP-5155,2025-10-02,Expense,Professional fees,Professional fees expense,2300,-2300,Cash,Manual Entry
+TRX-00276,EXP-5157,2025-10-03,Expense,Transport and fuel,Transport and fuel expense,1375,-1375,Bank Transfer,Google Sheet Import
+TRX-00268,EXP-5149,2025-10-07,Expense,Salaries and wages,Salaries and wages expense,34375,-34375,Bank Transfer,Manual Entry
+TRX-00093,INC-1093,2025-10-10,Income,Automation setup fee,Automation setup fee - Falcon Legal Advisors,10050,10050,Cash,Accounting Export
+TRX-00097,INC-1097,2025-10-10,Income,Monthly service retainer,Monthly service retainer - Gulf Star Trading,16000,16000,Bank Transfer,Google Sheet Import
+TRX-00098,INC-1098,2025-10-10,Income,Data cleaning support,Data cleaning support - Al Noor Business Center,3100,3100,Bank Transfer,Google Sheet Import
+TRX-00100,INC-1100,2025-10-13,Income,Dashboard customization,Dashboard customization - Blue Dhow Logistics,5800,5800,Bank Transfer,Manual Entry
+TRX-00277,EXP-5158,2025-10-14,Expense,Marketing,Marketing expense,1450,-1450,Bank Transfer,Google Sheet Import
+TRX-00270,EXP-5151,2025-10-14,Expense,Software subscriptions,Software subscriptions expense,2000,-2000,Bank Transfer,Manual Entry
+TRX-00095,INC-1095,2025-10-16,Income,Monthly service retainer,Monthly service retainer - Marina Fit Studio,15100,15100,Card,Accounting Export
+TRX-00099,INC-1099,2025-10-16,Income,Monthly service retainer,Monthly service retainer - Palm View Real Estate,15950,15950,Bank Transfer,Manual Entry
+TRX-00271,EXP-5152,2025-10-20,Expense,Telecom and internet,Telecom and internet expense,1250,-1250,Cash,Accounting Export
+TRX-00272,EXP-5153,2025-10-21,Expense,Office supplies,Office supplies expense,1000,-1000,Bank Transfer,Telegram Form
+TRX-00269,EXP-5150,2025-10-21,Expense,Office rent,Office rent expense,10225,-10225,Card,Google Sheet Import
+TRX-00282,EXP-5163,2025-10-22,Expense,Transport and fuel,Transport and fuel expense,3100,-3100,Bank Transfer,Manual Entry
+TRX-00273,EXP-5154,2025-10-24,Expense,Office supplies,Office supplies expense,1200,-1200,Bank Transfer,Accounting Export
+TRX-00092,INC-1092,2025-10-24,Income,Dashboard customization,Dashboard customization - Ajman Modern School,8750,8750,Card,Accounting Export
+TRX-00279,EXP-5160,2025-10-27,Expense,Office supplies,Office supplies expense,950,-950,Bank Transfer,Telegram Form
+TRX-00278,EXP-5159,2025-10-27,Expense,Office supplies,Office supplies expense,925,-925,Bank Transfer,Accounting Export
+TRX-00280,EXP-5161,2025-10-27,Expense,Marketing,Marketing expense,4975,-4975,Bank Transfer,Google Sheet Import
+TRX-00094,INC-1094,2025-10-28,Income,Monthly service retainer,Monthly service retainer - Ras Al Khaimah Warehousing,14750,14750,Bank Transfer,Google Sheet Import
+TRX-00275,EXP-5156,2025-10-31,Expense,Transport and fuel,Transport and fuel expense,1075,-1075,Bank Transfer,Google Sheet Import
+TRX-00091,INC-1091,2025-10-31,Income,Dashboard customization,Dashboard customization - Oasis Cafe Group,10550,10550,Bank Transfer,Google Sheet Import
+TRX-00105,INC-1105,2025-11-04,Income,Automation setup fee,Automation setup fee - Al Noor Business Center,10250,10250,Bank Transfer,Telegram Form
+TRX-00103,INC-1103,2025-11-04,Income,Dashboard customization,Dashboard customization - Palm View Real Estate,4600,4600,Cheque,Google Sheet Import
+TRX-00293,EXP-5174,2025-11-06,Expense,Transport and fuel,Transport and fuel expense,2375,-2375,Bank Transfer,Manual Entry
+TRX-00284,EXP-5165,2025-11-07,Expense,Office rent,Office rent expense,9850,-9850,Bank Transfer,Manual Entry
+TRX-00110,INC-1110,2025-11-11,Income,Training workshop,Training workshop - Desert Pearl Clinics,2800,2800,Bank Transfer,Telegram Form
+TRX-00102,INC-1102,2025-11-11,Income,Monthly service retainer,Monthly service retainer - Ras Al Khaimah Warehousing,9850,9850,Bank Transfer,Manual Entry
+TRX-00288,EXP-5169,2025-11-12,Expense,Marketing,Marketing expense,2875,-2875,Bank Transfer,Telegram Form
+TRX-00107,INC-1107,2025-11-12,Income,Automation setup fee,Automation setup fee - Ajman Modern School,9800,9800,Bank Transfer,Google Sheet Import
+TRX-00285,EXP-5166,2025-11-12,Expense,Software subscriptions,Software subscriptions expense,3275,-3275,Cheque,Accounting Export
+TRX-00290,EXP-5171,2025-11-13,Expense,Professional fees,Professional fees expense,1300,-1300,Card,Manual Entry
+TRX-00101,INC-1101,2025-11-13,Income,Monthly service retainer,Monthly service retainer - Blue Dhow Logistics,18450,18450,Card,Google Sheet Import
+TRX-00287,EXP-5168,2025-11-14,Expense,Marketing,Marketing expense,2900,-2900,Bank Transfer,Manual Entry
+TRX-00286,EXP-5167,2025-11-17,Expense,Telecom and internet,Telecom and internet expense,1725,-1725,Bank Transfer,Accounting Export
+TRX-00111,INC-1111,2025-11-20,Income,Automation setup fee,Automation setup fee - Mirdif Learning Hub,7950,7950,Bank Transfer,Manual Entry
+TRX-00292,EXP-5173,2025-11-21,Expense,Office supplies,Office supplies expense,700,-700,Card,Accounting Export
+TRX-00289,EXP-5170,2025-11-24,Expense,Transport and fuel,Transport and fuel expense,1900,-1900,Bank Transfer,Telegram Form
+TRX-00104,INC-1104,2025-11-24,Income,Monthly service retainer,Monthly service retainer - Capital Dental Center,20200,20200,Bank Transfer,Manual Entry
+TRX-00295,EXP-5176,2025-11-25,Expense,Office supplies,Office supplies expense,825,-825,Bank Transfer,Google Sheet Import
+TRX-00108,INC-1108,2025-11-25,Income,Data cleaning support,Data cleaning support - Oasis Cafe Group,3950,3950,Bank Transfer,Manual Entry
+TRX-00296,EXP-5177,2025-11-25,Expense,Bank charges,Bank charges expense,300,-300,Bank Transfer,Google Sheet Import
+TRX-00294,EXP-5175,2025-11-26,Expense,Office supplies,Office supplies expense,1375,-1375,Cash,Telegram Form
+TRX-00283,EXP-5164,2025-11-26,Expense,Salaries and wages,Salaries and wages expense,29150,-29150,Bank Transfer,Telegram Form
+TRX-00298,EXP-5179,2025-11-27,Expense,Marketing,Marketing expense,4525,-4525,Bank Transfer,Google Sheet Import
+TRX-00109,INC-1109,2025-11-27,Income,Automation setup fee,Automation setup fee - Marina Fit Studio,11350,11350,Bank Transfer,Google Sheet Import
+TRX-00291,EXP-5172,2025-11-27,Expense,Marketing,Marketing expense,2625,-2625,Bank Transfer,Manual Entry
+TRX-00106,INC-1106,2025-11-27,Income,Monthly service retainer,Monthly service retainer - Gulf Star Trading,15150,15150,Bank Transfer,Telegram Form
+TRX-00297,EXP-5178,2025-11-28,Expense,Maintenance,Maintenance expense,1025,-1025,Bank Transfer,Google Sheet Import
+TRX-00117,INC-1117,2025-12-01,Income,Dashboard customization,Dashboard customization - Desert Pearl Clinics,8650,8650,Bank Transfer,Accounting Export
+TRX-00114,INC-1114,2025-12-03,Income,Training workshop,Training workshop - Al Noor Business Center,5700,5700,Bank Transfer,Google Sheet Import
+TRX-00311,EXP-5192,2025-12-05,Expense,Bank charges,Bank charges expense,175,-175,Bank Transfer,Google Sheet Import
+TRX-00302,EXP-5183,2025-12-05,Expense,Telecom and internet,Telecom and internet expense,1150,-1150,Bank Transfer,Google Sheet Import
+TRX-00316,EXP-5197,2025-12-05,Expense,Maintenance,Maintenance expense,625,-625,Bank Transfer,Accounting Export
+TRX-00305,EXP-5186,2025-12-08,Expense,Marketing,Marketing expense,2525,-2525,Bank Transfer,Google Sheet Import
+TRX-00113,INC-1113,2025-12-09,Income,Data cleaning support,Data cleaning support - Ras Al Khaimah Warehousing,6350,6350,Bank Transfer,Google Sheet Import
+TRX-00304,EXP-5185,2025-12-09,Expense,Professional fees,Professional fees expense,1325,-1325,Bank Transfer,Manual Entry
+TRX-00299,EXP-5180,2025-12-10,Expense,Salaries and wages,Salaries and wages expense,30925,-30925,Card,Telegram Form
+TRX-00307,EXP-5188,2025-12-10,Expense,Marketing,Marketing expense,1725,-1725,Bank Transfer,Accounting Export
+TRX-00315,EXP-5196,2025-12-10,Expense,Office supplies,Office supplies expense,500,-500,Bank Transfer,Google Sheet Import
+TRX-00313,EXP-5194,2025-12-11,Expense,Office supplies,Office supplies expense,1200,-1200,Cash,Telegram Form
+TRX-00308,EXP-5189,2025-12-12,Expense,Transport and fuel,Transport and fuel expense,3150,-3150,Card,Manual Entry
+TRX-00112,INC-1112,2025-12-19,Income,Dashboard customization,Dashboard customization - Marina Fit Studio,9500,9500,Bank Transfer,Manual Entry
+TRX-00312,EXP-5193,2025-12-19,Expense,Office supplies,Office supplies expense,650,-650,Card,Manual Entry
+TRX-00119,INC-1119,2025-12-19,Income,Monthly service retainer,Monthly service retainer - Blue Dhow Logistics,15500,15500,Cheque,Google Sheet Import
+TRX-00115,INC-1115,2025-12-19,Income,Data cleaning support,Data cleaning support - Capital Dental Center,8500,8500,Bank Transfer,Google Sheet Import
+TRX-00116,INC-1116,2025-12-22,Income,Training workshop,Training workshop - Ajman Modern School,4150,4150,Bank Transfer,Accounting Export
+TRX-00303,EXP-5184,2025-12-22,Expense,Professional fees,Professional fees expense,2900,-2900,Cash,Telegram Form
+TRX-00309,EXP-5190,2025-12-24,Expense,Transport and fuel,Transport and fuel expense,1875,-1875,Cash,Manual Entry
+TRX-00301,EXP-5182,2025-12-25,Expense,Software subscriptions,Software subscriptions expense,2375,-2375,Cash,Telegram Form
+TRX-00314,EXP-5195,2025-12-25,Expense,Transport and fuel,Transport and fuel expense,2225,-2225,Bank Transfer,Accounting Export
+TRX-00300,EXP-5181,2025-12-26,Expense,Office rent,Office rent expense,10375,-10375,Card,Accounting Export
+TRX-00310,EXP-5191,2025-12-30,Expense,Maintenance,Maintenance expense,675,-675,Bank Transfer,Manual Entry
+TRX-00118,INC-1118,2025-12-30,Income,Automation setup fee,Automation setup fee - Falcon Legal Advisors,17900,17900,Cash,Google Sheet Import
+TRX-00306,EXP-5187,2025-12-30,Expense,Transport and fuel,Transport and fuel expense,2375,-2375,Card,Google Sheet Import
